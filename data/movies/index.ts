@@ -172,12 +172,60 @@ const movieRecords: MovieRecord[] = [
       plot: ""
   },
   {
+      id: "098sd8f-f09a-4855-9bd1-dba9eb378sdf",
+      title: "Cars",
+      year: 2006,
+      rated: "PG",
+      director: "",
+      plot: ""
+  },
+  {
+    id: "hhfw098f-f09a-4855-9bd1-dba9ebsdf098",
+    title: "Cars 2",
+    year: 2011,
+    rated: "PG",
+    director: "",
+    plot: ""
+  },
+  {
+    id: "1eocf-f09a-4855-9bd1-89asdf0999",
+    title: "Cars 3",
+    year: 2017,
+    rated: "PG",
+    director: "",
+    plot: ""
+  },
+  {
       id: "24ba365f-fa51-45ad-8595-30c82658d6f8",
       title: "Goodfellas",
       year: 1990,
-      rated: "",
+      rated: "R",
       director: "",
       plot: ""
+  },
+  {
+    id: "4f050526-3643-45c4-a940-4287820be509",
+    title: "Slaughter High",
+    year: 1986,
+    rated: "R",
+    director: "",
+    plot: ""
+  },
+  {
+    id: "aifi9sd65f-fa51-45ad-8595-30c82658d6f8",
+    title: "Zootopia",
+    year: 2016,
+    rated: "PG",
+    director: "",
+    plot: ""
+  },
+  {
+    id: "98jjwez65f-fa51-45ad-8595-30c82658d6f8",
+    title: "Tangled",
+    year: 2010,
+    rated: "PG",
+    director: "",
+    plot: ""
   },
   {
       id: "f02cc5e3-752d-4286-8a19-f73caad6c277",

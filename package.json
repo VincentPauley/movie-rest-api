@@ -8,7 +8,8 @@
     "build": "tsc",
     "server": "node dist/index.js",
     "db:init": "ts-node datascript.ts",
-    "db:cli": "sqlite3 db.sqlite  -header -column"
+    "db:cli": "sqlite3 db.sqlite  -header -column",
+    "gen:id": "ts-node ./scripts/gen-id"
   },
   "keywords": [],
   "author": "",
