@@ -2,8 +2,23 @@ import fs from 'fs'
 import path from 'path'
 import sqlite3 from "sqlite3"
 
+import TableSeed from '../TableSeed'
+
+const tableCreate = `
+  CREATE TABLE genres (
+    id text UNIQUE,
+    name text UNIQUE
+  );
+`;
+
+const jsonFile = fs.readFileSync(path.resolve(__dirname + '/records.json'), { encoding: 'utf8'});
+const recordData = JSON.parse(jsonFile)
+
+export const GenreSeed = new TableSeed('db.sqlite', 'genres', ['id', 'name'], tableCreate, recordData.records)
+
 const GenreData = {
   // TODO: env file here
+  // @DEPRECATE
   createTable(dbSource = 'db.sqlite') {
     return new Promise((resolve, reject) => {
       let db = new sqlite3.Database(dbSource, (err) => {
@@ -45,7 +60,6 @@ const GenreData = {
             db.run(insertStatement, [record.id, record.name])
           })
         })
-        
       } catch (e) {
         reject(e)
       }
@@ -56,5 +70,7 @@ const GenreData = {
 // GenreData.createTable()
 // GenreData.insertRecords()
 
-export default GenreData
+// console.log('--GenreSeed--')
+// console.log(GenreSeed.insertStatement())
 
+export default GenreData
