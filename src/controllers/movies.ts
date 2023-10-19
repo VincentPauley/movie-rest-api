@@ -2,6 +2,8 @@ import { v4 as uuidv4 } from 'uuid'
 import sqlite3 from 'sqlite3'
 import { Request, Response } from 'express'
 
+import MovieRatingOptions from '../constants/movie-ratings'
+
 export const AddMovie = (req: Request, res: Response) => {
   let db = new sqlite3.Database('db.sqlite', (err) => {
     if (err) {
@@ -30,4 +32,8 @@ export const AddMovie = (req: Request, res: Response) => {
         return res.status(200).json({ created: id })
       })
   })
+}
+
+export const MovieRatings = (req: Request, res: Response) => {
+  res.status(200).json({ records: MovieRatingOptions})
 }

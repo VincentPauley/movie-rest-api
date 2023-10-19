@@ -1,4 +1,5 @@
 import 'dotenv/config'
+import cors from 'cors'
 import express, { Request, Response } from 'express'
 import bodyParser from 'body-parser';
 
@@ -10,6 +11,7 @@ const app = express();
 const port = process.env.APPLICATION_PORT || 3000;
 
 app.use(bodyParser.urlencoded())
+app.use(cors())
 
 app.get('/', (req: Request, res: Response) => {
   res.send('Hello I am TS server')
