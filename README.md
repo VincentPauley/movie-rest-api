@@ -2,13 +2,19 @@
 
 ### Backend
 
-[ ] - POST route for create movie
+[X] - POST route for create movie
 
 ### Datase
 
 [ ] - genre table
-[ ] - export DB table to json file
+[X] - export DB table to json file
 
 ### Scripting
 
-[ ] - table resets other than whole db
+[X] - table resets other than whole db
+
+- not really needed, can just copy over exported records.
+
+next up:
+
+going to be really hard to get the joined tables going without a UI, work on that next
