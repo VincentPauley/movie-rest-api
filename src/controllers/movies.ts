@@ -69,3 +69,34 @@ export const AddMovie = (req: Request, res: Response) => {
   })
 }
 
+export const UpdateMovie = (req: Request, res: Response) => {
+  let db = new sqlite3.Database('db.sqlite', (err) => {
+    if (err) {
+      return res.status(500).json({ message: 'Bad DB Connection'})
+    }
+
+    const { title, year, rated } = req.body
+
+    const SqlStatment = `
+      UPDATE movies
+      SET title = ?,
+      year = ?,
+      rated = ?
+      WHERE id = ?
+    `
+    db.run(SqlStatment, [
+      title,
+      year,
+      rated,
+      req.params.id
+    ], (err) => {
+      if (err) {
+        console.log(err)
+        return res.status(500).json({ message: 'Update Failed'})
+      }
+
+      return res.status(200).json({ updated: req.params.id })
+    })
+  })
+}
+

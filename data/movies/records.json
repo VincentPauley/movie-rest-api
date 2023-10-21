@@ -25,30 +25,6 @@
       "plot": ""
     },
     {
-      "id": "4a4efabd-138e-4534-8a06-4430361d28f1",
-      "title": "Donnie Darko",
-      "year": 2001,
-      "rated": "",
-      "director": "",
-      "plot": ""
-    },
-    {
-      "id": "43833943-8a9f-4d82-b1ad-3c0283b60638",
-      "title": "A League of Their Own",
-      "year": 1992,
-      "rated": "",
-      "director": "",
-      "plot": ""
-    },
-    {
-      "id": "eb02d851-82f7-4458-a633-df5fe5d8a274",
-      "title": "American History X",
-      "year": 1998,
-      "rated": "R",
-      "director": "",
-      "plot": ""
-    },
-    {
       "id": "bbc622a7-63ce-4f17-8667-98292dde831f",
       "title": "Fight Club",
       "year": 1999,
@@ -297,10 +273,10 @@
       "plot": ""
     },
     {
-      "id": "12db0052-4142-4e9e-994a-116d2f528d33",
-      "title": "Batman Begins",
-      "year": 2005,
-      "rated": "",
+      "id": "eb02d851-82f7-4458-a633-df5fe5d8a274",
+      "title": "American History X",
+      "year": 1998,
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -345,9 +321,9 @@
       "plot": ""
     },
     {
-      "id": "2ddf213b-1151-4d77-bcbf-badfcd71465a",
-      "title": "V for Vendetta",
-      "year": 2005,
+      "id": "43833943-8a9f-4d82-b1ad-3c0283b60638",
+      "title": "A League of Their Own",
+      "year": 1992,
       "rated": "",
       "director": "",
       "plot": ""
@@ -393,9 +369,9 @@
       "plot": ""
     },
     {
-      "id": "54baedc0-2d4a-42eb-9385-8bd049a39d71",
-      "title": "Cool Hand Luke",
-      "year": 1967,
+      "id": "12db0052-4142-4e9e-994a-116d2f528d33",
+      "title": "Batman Begins",
+      "year": 2005,
       "rated": "",
       "director": "",
       "plot": ""
@@ -613,6 +589,422 @@
       "title": "Oceans Eleven",
       "year": 2001,
       "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "54baedc0-2d4a-42eb-9385-8bd049a39d71",
+      "title": "Cool Hand Luke",
+      "year": 1967,
+      "rated": "",
+      "director": "",
+      "plot": ""
+    },
+    {
+      "id": "4a4efabd-138e-4534-8a06-4430361d28f1",
+      "title": "Donnie Darko",
+      "year": 2001,
+      "rated": "",
+      "director": "",
+      "plot": ""
+    },
+    {
+      "id": "2ddf213b-1151-4d77-bcbf-badfcd71465a",
+      "title": "V for Vendetta",
+      "year": 2005,
+      "rated": "",
+      "director": "",
+      "plot": ""
+    },
+    {
+      "id": "7a797f87-1196-497f-8372-c11acf823983",
+      "title": "Falling Down",
+      "year": 1993,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "2728ad0c-f13d-4fee-a50a-47249688e414",
+      "title": "The Fugitive",
+      "year": 1993,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "f1640e26-4960-411e-8402-3eff573e304f",
+      "title": "Heat",
+      "year": 1995,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "d8e9ede7-3747-4a4a-b5ba-4cad75806c20",
+      "title": "Rush Hour",
+      "year": 1998,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "faf823f1-70e6-4d4b-9583-a14fcc3c8483",
+      "title": "Knives Out",
+      "year": 2019,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "97c9300d-03b5-4150-8244-6da562a6d9e2",
+      "title": "Speed",
+      "year": 1994,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "fc88206a-1bee-43cc-bfed-98eff8e92fb7",
+      "title": "End of Watch",
+      "year": 2012,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "5b241106-9de7-4d69-920d-54f688411794",
+      "title": "Seven",
+      "year": 1995,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "2222b939-89a7-488b-b3a0-60be82bb157a",
+      "title": "Forgetting Sarah Marshall",
+      "year": 2008,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "b87f4562-f1e1-4075-a649-5527ca31c9c4",
+      "title": "The 40-Year-Old Virgin",
+      "year": 2005,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "d459a15f-1920-4a49-83ce-6f413de8a4ba",
+      "title": "Knocked Up",
+      "year": 2007,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "7160955a-5310-4bda-8719-d0a4ac5e8bce",
+      "title": "Accepted",
+      "year": 2006,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "7f3720f6-f04d-403e-946e-5e85517b5cfd",
+      "title": "Legally Blonde",
+      "year": 2001,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "8830f1e1-9367-4c15-9a58-e2e43b7f178f",
+      "title": "Legally Blonde",
+      "year": 2003,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "9e4c1a37-060c-4cdc-b315-be44bbc5a518",
+      "title": "Scream",
+      "year": 1996,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "1d3c4093-3e55-4837-8e23-9d99fb668661",
+      "title": "Signs",
+      "year": 2002,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "8dbe6a9a-2649-4eb5-ba42-94a073e39c79",
+      "title": "Hook",
+      "year": 1991,
+      "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "711ec1e6-6fcc-40d2-95ab-227808d6ccd8",
+      "title": "Indianna Jones and the Temple of Doom",
+      "year": 1984,
+      "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "7938d87c-7dc2-4b33-82e0-80dd7551ec38",
+      "title": "Minority Report",
+      "year": 2002,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "d77fafed-fa57-47db-a6bd-4e0fe14b2a7b",
+      "title": "War of the Worlds",
+      "year": 2005,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "c9b55c78-c7f0-4778-a22e-1ddac3492b35",
+      "title": "World War Z",
+      "year": 2013,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "1ecf5abf-aabc-4369-84fb-8b379c4cdf93",
+      "title": "Independence Day",
+      "year": 1996,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "14663e14-03bf-4ccd-b6c4-0e3a19e54275",
+      "title": "What Dreams may Come",
+      "year": 1998,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "7b222c67-7eeb-48eb-a599-e9b9c1371277",
+      "title": "One Hundred and One Dalmations",
+      "year": 1966,
+      "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "e13c178c-f37e-4951-bf0c-f3f0d7b8ee98",
+      "title": "300",
+      "year": 2006,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "b071195d-7a44-4ba0-8b26-e64e0c003f31",
+      "title": "Watchmen",
+      "year": 2009,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "40c8df16-9172-484f-8246-a808b0e40b26",
+      "title": "The Girl with the Dragon Tattoo",
+      "year": 2011,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "f069f61a-4907-4a08-8ff2-adc758644183",
+      "title": "The Wizard of Oz",
+      "year": 1939,
+      "rated": "G",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "e1703ec2-a8f5-4dde-9725-6eb24526af33",
+      "title": "The Angry Birds Movie",
+      "year": 2016,
+      "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "e432ff84-d83f-4e41-948d-e72a0529c7f5",
+      "title": "The Angry Birds Movie 2",
+      "year": 2019,
+      "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "2f0999be-50da-4a87-969c-62e4741a6c25",
+      "title": "Willy Wonka & the Chocolate Factory",
+      "year": 1971,
+      "rated": "G",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "7db6edc1-6152-4abc-ba6d-879e69855374",
+      "title": "Matilda",
+      "year": 1996,
+      "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "6646200c-6865-4062-9aae-cfe461dd44a0",
+      "title": "Chocolat",
+      "year": 2000,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "df52c373-a5c7-415a-b4b0-d2c103b290dd",
+      "title": "Mary Poppins",
+      "year": 1964,
+      "rated": "G",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "b1851f8c-a86c-463b-ab1d-530c99b981d8",
+      "title": "James and the Giant Peach",
+      "year": 1996,
+      "rated": "G",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "777badcd-8d61-431b-a969-6816d8ce6e70",
+      "title": "Fantastic Mr Fox",
+      "year": 2009,
+      "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "383d00c3-e31e-490b-a70e-44455e7dd04c",
+      "title": "The Goonies",
+      "year": 1985,
+      "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "8f77e21f-3375-4e77-8d25-95f71a626296",
+      "title": "Bandits",
+      "year": 2001,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "fcb5b09e-57cb-4bec-9749-a89258ae0f0b",
+      "title": "The Town",
+      "year": 2010,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "473aeb6c-de10-41be-9370-99f3b0b266f3",
+      "title": "The Place Beyond the Pines",
+      "year": 2012,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "763fad0a-c6cb-4505-9e71-0350c6fe953c",
+      "title": "The Terminator",
+      "year": 1984,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "5c445d40-3fcf-4394-8b60-385cc1b6e8b1",
+      "title": "The Terminator 2: Judgement Day",
+      "year": 1991,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "4271b0d3-93e6-4129-a54e-d42f4b9ae82b",
+      "title": "The Terminator 3: Rise of the Machines",
+      "year": 2003,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "be9d1520-4839-4695-b20b-b7c3071c8dea",
+      "title": "Terminator Salvation",
+      "year": 2009,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "67f3df44-945f-47d7-b3f3-b25ec8c46dbc",
+      "title": "Terminator Genisys",
+      "year": 2015,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "405ae610-f545-4c81-baf1-26fa3e44d8d0",
+      "title": "Terminator: Dark Fate",
+      "year": 2019,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "9128e50e-86dc-41bf-8e7b-9c5995fc7b17",
+      "title": "The Menu",
+      "year": 2022,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "69c4309b-adbf-4a0e-a399-c7a83e41d34c",
+      "title": "The Count of Monte Cristo",
+      "year": 2002,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "9a023d99-f437-4eb4-9b32-df7f2aaf4894",
+      "title": "The Three Musketeers",
+      "year": 1993,
+      "rated": "PG",
       "director": "N/A",
       "plot": ""
     }
