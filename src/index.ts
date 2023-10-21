@@ -6,11 +6,12 @@ import bodyParser from 'body-parser';
 // routes
 import tableRoutes from './routes/table'
 import movieRoutes from './routes/movies'
+import movieRatings from './routes/movie-ratings'
 
 const app = express();
 const port = process.env.APPLICATION_PORT || 3000;
 
-app.use(bodyParser.urlencoded())
+app.use(bodyParser.urlencoded({ extended: true }))
 app.use(cors())
 
 app.get('/', (req: Request, res: Response) => {
@@ -19,6 +20,7 @@ app.get('/', (req: Request, res: Response) => {
 
 app.use('/full-table', tableRoutes)
 app.use('/movie', movieRoutes)
+app.use('/movie-ratings', movieRatings)
 
 app.listen(port, () => {
   console.log(`server up @ http://localhost:${port}/`)

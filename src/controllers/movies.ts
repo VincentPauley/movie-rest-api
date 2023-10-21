@@ -2,7 +2,6 @@ import { v4 as uuidv4 } from 'uuid'
 import sqlite3 from 'sqlite3'
 import { Request, Response } from 'express'
 
-import MovieRatingOptions from '../constants/movie-ratings'
 
 // TODO: more performant route for movie fetching (does not require all fields.)
 
@@ -70,6 +69,3 @@ export const AddMovie = (req: Request, res: Response) => {
   })
 }
 
-export const MovieRatings = (req: Request, res: Response) => {
-  res.status(200).json({ records: MovieRatingOptions})
-}
