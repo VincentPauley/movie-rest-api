@@ -6,8 +6,10 @@
 
 ### Datase
 
-[ ] - genre table
+[X] - genre table
 [X] - export DB table to json file
+
+- some way to associate movies to a franchise/trilogy etc...
 
 ### Scripting
 
@@ -15,6 +17,9 @@
 
 - not really needed, can just copy over exported records.
 
-next up:
+## UI
 
-going to be really hard to get the joined tables going without a UI, work on that next
+- add genres to movies.
+- search by Genre
+- view genre graphs
+- raating dispersal graphs

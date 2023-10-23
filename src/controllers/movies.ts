@@ -77,6 +77,9 @@ export const UpdateMovie = (req: Request, res: Response) => {
 
     const { title, year, rated } = req.body
 
+    console.log(req.body)
+    console.log(title, year, rated, req.params.id)
+
     const SqlStatment = `
       UPDATE movies
       SET title = ?,
