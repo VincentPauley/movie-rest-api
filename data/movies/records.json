@@ -4,7 +4,7 @@
       "id": "4c1d488e-949c-49f1-941a-babeff2555c4",
       "title": "The Godfather",
       "year": 1972,
-      "rated": "",
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -20,7 +20,7 @@
       "id": "1fed00a7-ee12-4947-b6d8-c0e148a6b199",
       "title": "The Prestige",
       "year": 2006,
-      "rated": "",
+      "rated": "PG-13",
       "director": "",
       "plot": ""
     },
@@ -28,7 +28,7 @@
       "id": "bbc622a7-63ce-4f17-8667-98292dde831f",
       "title": "Fight Club",
       "year": 1999,
-      "rated": "",
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -36,7 +36,7 @@
       "id": "fc0e3d5c-08bd-481b-ae80-45394958c408",
       "title": "Zodiac",
       "year": 2007,
-      "rated": "",
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -44,7 +44,7 @@
       "id": "8161aa8a-2e4f-44de-aa2a-436b945bb3e4",
       "title": " The Dark Knight",
       "year": 2008,
-      "rated": "",
+      "rated": "PG-13",
       "director": "",
       "plot": ""
     },
@@ -52,7 +52,7 @@
       "id": "c751ee83-5d57-46b7-b831-0f27af200b83",
       "title": "Saving Private Ryan",
       "year": 1998,
-      "rated": "",
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -154,9 +154,9 @@
     },
     {
       "id": "f02cc5e3-752d-4286-8a19-f73caad6c277",
-      "title": "It's a Wonderful Life",
-      "year": 1946,
-      "rated": "",
+      "title": "The Godfather",
+      "year": 1972,
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -993,6 +993,14 @@
       "plot": ""
     },
     {
+      "id": "69fb951b-0d8c-4e60-86d9-4090f69eb6c2",
+      "title": "Nightcrawler",
+      "year": 2014,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
       "id": "69c4309b-adbf-4a0e-a399-c7a83e41d34c",
       "title": "The Count of Monte Cristo",
       "year": 2002,
@@ -1005,6 +1013,38 @@
       "title": "The Three Musketeers",
       "year": 1993,
       "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "1eaaa447-9f7f-4858-b820-0f9d065a6b64",
+      "title": "Flight",
+      "year": 2012,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "5334d6ac-be2f-4e8c-9201-3ca3fba9ee05",
+      "title": "Uncut Gems",
+      "year": 2019,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "eb8d02be-7965-46c4-ba2a-1589e744752c",
+      "title": "Uncut Gems",
+      "year": 2019,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "fe0cf7c6-ff90-4726-8ac3-92bd06a7d6b8",
+      "title": "Twilight",
+      "year": 2008,
+      "rated": "PG-13",
       "director": "N/A",
       "plot": ""
     }

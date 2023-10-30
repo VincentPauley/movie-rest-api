@@ -1,6 +1,7 @@
 // TODO: obviously some DRY cleanup possible from here.
 import { GenreSeed } from './data/genres'
 import { MovieSeed } from './data/movies'
+import MovieGenresSeed from './data/movie-genres'
 
 const movieSetup = async () => {
   await MovieSeed.createTable()
@@ -12,5 +13,11 @@ const genreSetup = async () => {
   GenreSeed.seedTable()
 }
 
+const movieGenreSetup = async () => {
+  await MovieGenresSeed.createTable()
+  MovieGenresSeed.seedTable()
+}
+
 genreSetup()
 movieSetup()
+movieGenreSetup()

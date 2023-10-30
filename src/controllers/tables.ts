@@ -2,6 +2,7 @@ import sqlite3 from 'sqlite3'
 import { Request, Response } from 'express'
 
 export const ReadFullTable = (req: Request, res: Response) => {
+  console.log('Read Full Table..')
   let db = new sqlite3.Database('db.sqlite', (err) => {
     if (err) {
       return res.status(500).json({ message: 'Bad DB Connection.'})
@@ -27,6 +28,4 @@ export const ReadFullTable = (req: Request, res: Response) => {
       res.status(200).json({ records: rows })
     })
   })
-
-  
 }
