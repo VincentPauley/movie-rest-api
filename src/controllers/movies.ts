@@ -5,6 +5,31 @@ import { Request, Response } from 'express'
 import DbConnect from '../util/dbConnection'
 // TODO: more performant route for movie fetching (does not require all fields.)
 
+
+export const GetMovieCount = async(req: Request, res: Response) => {
+  try {
+    const db = await DbConnect()
+
+    const query = `SELECT COUNT(*) FROM movies;`;
+
+    db.all(query, (err, result: any) => {
+      if (err) {
+        return res.status(500).json({ message: 'failed query to get movie count...' })
+      }
+
+      if (result.length !== 1) {
+        return res.status(500).json({ message: 'failed query to get movie, query returned improper length' })
+      }
+
+      const recordCount = result[0]['COUNT(*)']
+
+      res.status(200).json({ count: recordCount })
+    })
+  } catch (e) {
+    console.error(e)
+    res.status(500).json({ message: 'failed to get movie count...' })
+  }
+}
 /**
  * getMovies()
  * 
@@ -31,7 +56,9 @@ export const GetMovies = async (req: Request, res: Response) => {
         genres
       ON
         movie_genres.genre_id = genres.id
-      ORDER BY RANDOM();`
+      ORDER BY RANDOM()
+      LIMIT 25;`
+      // ^ NOTE: limit effects the genres returned so this MUST be temporaary
   
     db.all(query, async(err, rows) => {
       if (err) {
