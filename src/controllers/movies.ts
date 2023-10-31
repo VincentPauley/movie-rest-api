@@ -2,8 +2,76 @@ import { v4 as uuidv4 } from 'uuid'
 import sqlite3 from 'sqlite3'
 import { Request, Response } from 'express'
 
-
+import DbConnect from '../util/dbConnection'
 // TODO: more performant route for movie fetching (does not require all fields.)
+
+/**
+ * getMovies()
+ * 
+ * This is the real deal 
+ */
+export const GetMovies = async (req: Request, res: Response) => {
+  try {
+    const db = await DbConnect()
+
+    const query = `
+      SELECT
+        movies.id,
+        title,
+        year,
+        rated,
+        genres.name AS genre
+      FROM
+        movies
+      LEFT OUTER JOIN
+        movie_genres
+      ON
+        movie_genres.movie_id = movies.id
+      LEFT OUTER JOIN
+        genres
+      ON
+        movie_genres.genre_id = genres.id
+      ORDER BY RANDOM();`
+  
+    db.all(query, async(err, rows) => {
+      if (err) {
+        console.error(err)
+        return res.status(500).json({ message: 'Failed @getMovies(), query execution. check server logs.' })
+      }
+
+      const records: { [key: string]: any } = {}
+
+      rows.forEach((row: any) => {
+        if (!records[row.id]) {
+          records[row.id] = {
+            title: row.title,
+            year: row.year,
+            rated: row.rated,
+            genres: []
+          }
+        }
+
+        if (row.genre) {
+          records[row.id].genres.push(row.genre)
+        }
+      })
+
+      const formattedRecords: any[] = []
+
+      Object.keys(records).forEach(recordID => {
+        formattedRecords.push({
+          id: recordID,
+          ...records[recordID]
+        })
+      })
+
+      res.status(200).json({ records: formattedRecords })
+    })
+  } catch (e) {
+    console.error(e)
+    res.status(500).json({ message: 'Failed @getMovies(), check server logs' })
+  }
+}
 
 // Find movie by ID.
 export const GetMovieById = (req: Request, res: Response) => {

@@ -1,7 +1,9 @@
 import express from 'express'
-import { AddMovie, GetMovieById, UpdateMovie } from '../controllers/movies'
+import { AddMovie, GetMovieById, GetMovies, UpdateMovie } from '../controllers/movies'
 
 const router = express.Router()
+
+router.get('/all', GetMovies)
 
 router.get('/:id', GetMovieById)
 

@@ -9,10 +9,18 @@
       "plot": ""
     },
     {
-      "id": "703f5f1c-53c0-44a5-a3ce-f9eff01d9fd9",
-      "title": "Forrest Gump",
-      "year": 1994,
-      "rated": "PG-13",
+      "id": "c751ee83-5d57-46b7-b831-0f27af200b83",
+      "title": "Saving Private Ryan",
+      "year": 1998,
+      "rated": "R",
+      "director": "",
+      "plot": ""
+    },
+    {
+      "id": "def8f838-e1c4-488b-b146-f0b159a03b06",
+      "title": "Silver Linings Playbook",
+      "year": 2012,
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -25,42 +33,10 @@
       "plot": ""
     },
     {
-      "id": "bbc622a7-63ce-4f17-8667-98292dde831f",
-      "title": "Fight Club",
-      "year": 1999,
-      "rated": "R",
-      "director": "",
-      "plot": ""
-    },
-    {
-      "id": "fc0e3d5c-08bd-481b-ae80-45394958c408",
-      "title": "Zodiac",
-      "year": 2007,
-      "rated": "R",
-      "director": "",
-      "plot": ""
-    },
-    {
-      "id": "8161aa8a-2e4f-44de-aa2a-436b945bb3e4",
-      "title": " The Dark Knight",
-      "year": 2008,
+      "id": "703f5f1c-53c0-44a5-a3ce-f9eff01d9fd9",
+      "title": "Forrest Gump",
+      "year": 1994,
       "rated": "PG-13",
-      "director": "",
-      "plot": ""
-    },
-    {
-      "id": "c751ee83-5d57-46b7-b831-0f27af200b83",
-      "title": "Saving Private Ryan",
-      "year": 1998,
-      "rated": "R",
-      "director": "",
-      "plot": ""
-    },
-    {
-      "id": "def8f838-e1c4-488b-b146-f0b159a03b06",
-      "title": "Silver Linings Playbook",
-      "year": 2012,
-      "rated": "",
       "director": "",
       "plot": ""
     },
@@ -68,7 +44,7 @@
       "id": "cead6c80-e3c1-4674-8a4a-f86e8db00c41",
       "title": "The Matrix",
       "year": 1999,
-      "rated": "",
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -76,7 +52,7 @@
       "id": "e2b64f14-2997-4c3e-b09d-e8e2b490c8b0",
       "title": "Baby Driver",
       "year": 2017,
-      "rated": "",
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -116,7 +92,7 @@
       "id": "50804960-877b-4a17-ae35-a5b3dd6414b1",
       "title": "The Devil Wears Prada",
       "year": 2006,
-      "rated": "",
+      "rated": "PG-13",
       "director": "",
       "plot": ""
     },
@@ -140,7 +116,7 @@
       "id": "e7dc6964-225e-498b-a39a-49db4775ed43",
       "title": "Interstellar",
       "year": 2014,
-      "rated": "",
+      "rated": "PG-13",
       "director": "",
       "plot": ""
     },
@@ -148,7 +124,7 @@
       "id": "2e46cbd8-5846-4a3d-8fc7-9f63de2915ac",
       "title": "The Silence of the Lambs",
       "year": 1991,
-      "rated": "",
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -172,7 +148,7 @@
       "id": "2e84c6da-6178-48ad-82c6-27ab7f450680",
       "title": "Back to the Future",
       "year": 1985,
-      "rated": "",
+      "rated": "PG",
       "director": "",
       "plot": ""
     },
@@ -180,7 +156,7 @@
       "id": "d9384ca7-207e-4bfe-8c92-62ff23aa084f",
       "title": "The Pianist",
       "year": 2002,
-      "rated": "",
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -196,7 +172,7 @@
       "id": "31a27e1b-5ceb-4760-8a74-ba3f86398213",
       "title": "Oppenheimer",
       "year": 2023,
-      "rated": "",
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -204,7 +180,7 @@
       "id": "7fbf9833-295e-4ea6-a62e-3a8750f2704e",
       "title": "The Lion King",
       "year": 1994,
-      "rated": "",
+      "rated": "PG",
       "director": "",
       "plot": ""
     },
@@ -212,7 +188,7 @@
       "id": "e72e4a24-2e85-45a2-b83b-ca68b111d0c5",
       "title": "Inglorious Basterds",
       "year": 2009,
-      "rated": "",
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -220,7 +196,7 @@
       "id": "cc39cd23-bf72-46c1-977a-09f116172e74",
       "title": "Amadeus",
       "year": 1984,
-      "rated": "",
+      "rated": "PG",
       "director": "",
       "plot": ""
     },
@@ -228,7 +204,7 @@
       "id": "61d1991d-8e79-44fb-8f33-908be5734c05",
       "title": "Brave Heart",
       "year": 1995,
-      "rated": "",
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -236,7 +212,7 @@
       "id": "fd5fb65d-2a3a-444d-84d7-12c33d80aef2",
       "title": "Good Will Hunting",
       "year": 1997,
-      "rated": "",
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -244,7 +220,7 @@
       "id": "b49a9371-77b6-499d-b756-75aff8b0f886",
       "title": "Eternal Sunshine of the Spotless Mind",
       "year": 2004,
-      "rated": "",
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -252,7 +228,7 @@
       "id": "d1587379-85ad-4cf2-8c17-9e1b5e9f2b52",
       "title": "Reservoir Dogs",
       "year": 1992,
-      "rated": "",
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -260,7 +236,7 @@
       "id": "0b938666-abb7-4caa-929e-3f27c157d4f0",
       "title": "Die Hard",
       "year": 1988,
-      "rated": "",
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -268,7 +244,7 @@
       "id": "434d9fd0-7bad-4620-b25c-24afba38c8e4",
       "title": "1917",
       "year": 2019,
-      "rated": "",
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -284,7 +260,7 @@
       "id": "2a983386-a83c-47ec-b4ad-2e25c64310d5",
       "title": "There Will be Blood",
       "year": 2007,
-      "rated": "",
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -292,7 +268,7 @@
       "id": "08f1e740-a65e-4122-9dd7-906382e86aeb",
       "title": "Jurassic Park",
       "year": 1993,
-      "rated": "",
+      "rated": "PG-13",
       "director": "",
       "plot": ""
     },
@@ -300,7 +276,7 @@
       "id": "797aa82e-ce87-4540-95a8-ef812f183d34",
       "title": "Fargo",
       "year": 1996,
-      "rated": "",
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -308,7 +284,7 @@
       "id": "2f3444ec-5465-47ec-949a-eb4046689d65",
       "title": "Gran Torino",
       "year": 2008,
-      "rated": "",
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -316,7 +292,7 @@
       "id": "f6dbd8ac-18d1-4085-9d67-2415220856aa",
       "title": "Dead Poets Society",
       "year": 1989,
-      "rated": "",
+      "rated": "PG",
       "director": "",
       "plot": ""
     },
@@ -324,7 +300,7 @@
       "id": "43833943-8a9f-4d82-b1ad-3c0283b60638",
       "title": "A League of Their Own",
       "year": 1992,
-      "rated": "",
+      "rated": "PG",
       "director": "",
       "plot": ""
     },
@@ -332,7 +308,7 @@
       "id": "9e2f7423-873c-4310-9acb-5ca9312efb0a",
       "title": "Ford v Ferrari",
       "year": 2019,
-      "rated": "",
+      "rated": "PG-13",
       "director": "",
       "plot": ""
     },
@@ -340,7 +316,7 @@
       "id": "c409394c-84a2-4311-9cf8-5c2ee56eb314",
       "title": "The Terminator",
       "year": 1984,
-      "rated": "",
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -348,7 +324,7 @@
       "id": "e0c0b807-eb28-4819-9c30-37f248fca045",
       "title": "Stand by Me",
       "year": 1986,
-      "rated": "",
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -356,7 +332,7 @@
       "id": "b3771c8e-599c-4edc-bf07-a85e26669718",
       "title": "The Incredibles",
       "year": 2004,
-      "rated": "",
+      "rated": "PG",
       "director": "",
       "plot": ""
     },
@@ -364,7 +340,7 @@
       "id": "3badcaea-6da0-4146-8c3d-898256c56969",
       "title": "Groundhog Day",
       "year": 1993,
-      "rated": "",
+      "rated": "PG",
       "director": "",
       "plot": ""
     },
@@ -372,7 +348,7 @@
       "id": "12db0052-4142-4e9e-994a-116d2f528d33",
       "title": "Batman Begins",
       "year": 2005,
-      "rated": "",
+      "rated": "PG-13",
       "director": "",
       "plot": ""
     },
@@ -380,7 +356,7 @@
       "id": "6a108488-5390-4804-9eda-d6c4fb1eb34a",
       "title": "The Shining",
       "year": 1980,
-      "rated": "",
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -388,7 +364,7 @@
       "id": "d442d526-341f-41db-b468-2d77c7ad4dfb",
       "title": "Whiplash",
       "year": 2014,
-      "rated": "",
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -396,7 +372,7 @@
       "id": "873b8d91-10ea-46f7-bc62-7e87b3dbaf43",
       "title": "Casablanca",
       "year": 1946,
-      "rated": "",
+      "rated": "PG",
       "director": "",
       "plot": ""
     },
@@ -412,7 +388,7 @@
       "id": "3489d52f-f92e-4d6a-9970-bd59db7258c5",
       "title": "Jaws",
       "year": 1975,
-      "rated": "",
+      "rated": "PG",
       "director": "",
       "plot": ""
     },
@@ -420,7 +396,7 @@
       "id": "2b877f1b-fd9f-43f1-b253-817c7c5f00ef",
       "title": "Casino",
       "year": 1995,
-      "rated": "",
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -428,7 +404,7 @@
       "id": "78fdee40-352f-4a3a-8401-bb71eb63f5f5",
       "title": "500 Days of Summer",
       "year": 2009,
-      "rated": "",
+      "rated": "PG-13",
       "director": "",
       "plot": ""
     },
@@ -436,7 +412,7 @@
       "id": "bd2a9bb0-032c-484e-9346-70d769cd2365",
       "title": "American Beauty",
       "year": 1999,
-      "rated": "",
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -444,7 +420,7 @@
       "id": "5f0cce0b-0281-48f3-958c-af6020400df9",
       "title": "Casino Royale",
       "year": 2007,
-      "rated": "",
+      "rated": "PG-13",
       "director": "",
       "plot": ""
     },
@@ -452,7 +428,7 @@
       "id": "9c378fa9-5fe9-4f2d-89b8-fa56cdc337a9",
       "title": "The Sixth Sense",
       "year": 1999,
-      "rated": "",
+      "rated": "PG-13",
       "director": "",
       "plot": ""
     },
@@ -460,7 +436,7 @@
       "id": "65f1c9fc-520c-48de-8401-41523d66e6b2",
       "title": "Catch me if you can",
       "year": 2002,
-      "rated": "",
+      "rated": "PG-13",
       "director": "",
       "plot": ""
     },
@@ -468,7 +444,7 @@
       "id": "ccc6977c-7a80-44aa-838c-81275107ed60",
       "title": "No Country for Old Men",
       "year": 2007,
-      "rated": "",
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -553,11 +529,11 @@
       "plot": ""
     },
     {
-      "id": "9b82d8b9-5c14-4063-948b-e3b1e8a584b4",
-      "title": "Zoolander",
-      "year": 2001,
-      "rated": "PG-13",
-      "director": "N/A",
+      "id": "fc0e3d5c-08bd-481b-ae80-45394958c408",
+      "title": "Zodiac",
+      "year": 2007,
+      "rated": "R",
+      "director": "",
       "plot": ""
     },
     {
@@ -596,7 +572,7 @@
       "id": "54baedc0-2d4a-42eb-9385-8bd049a39d71",
       "title": "Cool Hand Luke",
       "year": 1967,
-      "rated": "",
+      "rated": "PG",
       "director": "",
       "plot": ""
     },
@@ -604,7 +580,7 @@
       "id": "4a4efabd-138e-4534-8a06-4430361d28f1",
       "title": "Donnie Darko",
       "year": 2001,
-      "rated": "",
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -612,7 +588,7 @@
       "id": "2ddf213b-1151-4d77-bcbf-badfcd71465a",
       "title": "V for Vendetta",
       "year": 2005,
-      "rated": "",
+      "rated": "R",
       "director": "",
       "plot": ""
     },
@@ -889,11 +865,11 @@
       "plot": ""
     },
     {
-      "id": "b1851f8c-a86c-463b-ab1d-530c99b981d8",
-      "title": "James and the Giant Peach",
-      "year": 1996,
-      "rated": "G",
-      "director": "N/A",
+      "id": "bbc622a7-63ce-4f17-8667-98292dde831f",
+      "title": "Fight Club",
+      "year": 1999,
+      "rated": "R",
+      "director": "",
       "plot": ""
     },
     {
@@ -1001,18 +977,18 @@
       "plot": ""
     },
     {
-      "id": "69c4309b-adbf-4a0e-a399-c7a83e41d34c",
-      "title": "The Count of Monte Cristo",
-      "year": 2002,
-      "rated": "PG-13",
-      "director": "N/A",
-      "plot": ""
-    },
-    {
       "id": "9a023d99-f437-4eb4-9b32-df7f2aaf4894",
       "title": "The Three Musketeers",
       "year": 1993,
       "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "69c4309b-adbf-4a0e-a399-c7a83e41d34c",
+      "title": "The Count of Monte Cristo",
+      "year": 2002,
+      "rated": "PG-13",
       "director": "N/A",
       "plot": ""
     },
@@ -1045,6 +1021,646 @@
       "title": "Twilight",
       "year": 2008,
       "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "b1851f8c-a86c-463b-ab1d-530c99b981d8",
+      "title": "James and the Giant Peach",
+      "year": 1996,
+      "rated": "G",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "9b82d8b9-5c14-4063-948b-e3b1e8a584b4",
+      "title": "Zoolander",
+      "year": 2001,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "8161aa8a-2e4f-44de-aa2a-436b945bb3e4",
+      "title": " The Dark Knight",
+      "year": 2008,
+      "rated": "PG-13",
+      "director": "",
+      "plot": ""
+    },
+    {
+      "id": "1331bbfa-87bb-4e0d-a2fc-a536fd7bd473",
+      "title": "Titanic",
+      "year": 1997,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "dd9387fc-de68-4bbf-aeda-7741e6436201",
+      "title": "Air",
+      "year": 2023,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "cfab7907-96e5-4bce-8988-9325deaa9a8c",
+      "title": "The Super Mario Bros. Movie",
+      "year": 2023,
+      "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "ac4618ff-813d-4968-be75-0276f24bc0cc",
+      "title": "Invincible",
+      "year": 2006,
+      "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "b7eec20a-2041-4c9f-bd85-027510d4a835",
+      "title": "Leatherheads",
+      "year": 2008,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "39c9c276-715b-4ddf-93b9-57ccdd6aa22c",
+      "title": "Schindler's List",
+      "year": 1993,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "350d6cc7-704f-44be-9f4f-c873fc636bf4",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "8c6a2e8a-4fb5-49b7-a266-16df726c32dc",
+      "title": "The Good, the Bad and the Ugly",
+      "year": 1966,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "75831d69-3677-423b-9608-569d0c63273b",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": 1980,
+      "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "0cc994c3-d680-412d-9938-5467aaf884c4",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": 1974,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "773e4c76-1cad-4991-a963-185ca397a8d7",
+      "title": "Seven Samurai",
+      "year": 1954,
+      "rated": "NR",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "1e4013de-36b6-4420-a730-edd4fc349703",
+      "title": "City of God",
+      "year": 2002,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "86d31467-39a4-4663-b22a-c2f36c07fdd2",
+      "title": "Psycho",
+      "year": 1960,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "69243390-753d-4850-b4e0-ffe5dc3ec86e",
+      "title": "The Green Mile",
+      "year": 1999,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "f2fa9ffa-90cd-4cb8-8ca2-48b5607d1790",
+      "title": "The Departed",
+      "year": 2006,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "d5c9c7e4-b59d-4181-9634-880e2e8c8ab1",
+      "title": "Gladiator",
+      "year": 2000,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "7f882296-4b0e-4405-8a67-0034dd832d13",
+      "title": "Memento",
+      "year": 2000,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "b952c6fd-792a-41f4-8e96-37006d91a152",
+      "title": "Apocalypse Now",
+      "year": 1979,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "862dfeb2-c0f0-4c18-ba2a-c326dc27e71a",
+      "title": "Alien",
+      "year": 1979,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "41e28f05-1821-454b-a0a5-58d0349f9409",
+      "title": "WALL·E",
+      "year": 2008,
+      "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "6a8fe49c-c32b-4af5-aada-824dcac2aa91",
+      "title": "Oldboy",
+      "year": 2003,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "bdca647a-3ffd-484c-a3e4-b813136fdca5",
+      "title": "A Clockwork Orange",
+      "year": 1971,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "f06767cc-d02a-408b-853c-8e4ac612ec1a",
+      "title": "Taxi Driver",
+      "year": 1976,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "0d369269-0f75-48df-89a9-61f00efb458f",
+      "title": "Full Metal Jacket",
+      "year": 1987,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "f60b6639-ae2c-47e3-89d4-ee9e4e471e35",
+      "title": "Monty Python and the Holy Grail",
+      "year": 1975,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "d323f1d0-b4f7-4107-bf15-5dab1a87aa83",
+      "title": "Arrival",
+      "year": 2016,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "004b9714-df6a-46c1-bd92-a0d4016791be",
+      "title": "National Treasure",
+      "year": 2004,
+      "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "12abbf2b-2f1e-4c7c-b2a6-0209ec8222cc",
+      "title": "National Treasure: Book of Secrets",
+      "year": 2007,
+      "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "68395639-60ef-4ddc-8651-b3cc3891b215",
+      "title": "The Nightmare Before Christmas",
+      "year": 1993,
+      "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "e78f5fc1-222d-4869-80ae-51590c28e41b",
+      "title": "Wet Hot American Summer",
+      "year": 2001,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "36847f11-ca72-4fbc-b058-64c2f07d8fa9",
+      "title": "Mean Girls",
+      "year": 2004,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "1ce3c6ea-02db-4063-a14f-b1796e07eeb4",
+      "title": "Blades of Glory",
+      "year": 2007,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "cf0617be-1a96-4831-8be4-0ab4dff730f3",
+      "title": "They Came Together",
+      "year": 2014,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "a08ae783-68ac-4505-99dc-c4e652c7f64f",
+      "title": "Anchorman: The Legend of Ron Burgundy",
+      "year": 2004,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "3cf87766-5111-43f6-9459-37d72991895f",
+      "title": "We're the MIllers",
+      "year": 2013,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "0eee4b10-a358-415f-9f22-d4348de87003",
+      "title": "Drinking Buddies",
+      "year": 2013,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "66cdf943-60e6-4cd5-b341-98a75a639ec3",
+      "title": "The Rocker",
+      "year": 2008,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "c72d5ac7-8c61-41d1-b807-33cfeed03e20",
+      "title": "La La Land",
+      "year": 2016,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "6c417391-c4e7-4a1a-b246-eb89f20a39dc",
+      "title": "Easy A",
+      "year": 2010,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "b999034d-cd26-465a-a24c-90e018f7c1ab",
+      "title": "Crazy, Stupid, Love",
+      "year": 2011,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "d0ba5ef5-ee60-4b6e-9cb1-9fe11b4632ad",
+      "title": "Zombieland",
+      "year": 2009,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "36990523-177c-48df-9f86-f017d475b9d0",
+      "title": "Superbad",
+      "year": 2007,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "cbee7b86-2a68-4aa1-ace8-18a24389c717",
+      "title": "Friends with Benefits",
+      "year": 2011,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "96e1fb41-1d9b-4155-9e8b-242c4aa47ad9",
+      "title": "Ghosts of Girlfriends Past",
+      "year": 2009,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "509f1393-780b-42b7-894f-a08be62bbbe3",
+      "title": "The Interview",
+      "year": 2014,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "90ddc69e-b149-4695-b488-e4e09d44bcc2",
+      "title": "Neighbors",
+      "year": 2014,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "1d5ad229-380b-4548-834b-d63b0891b3bc",
+      "title": "Neighbors 2: Sorority Rising",
+      "year": 2016,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "dddaa0fa-5a41-41f3-8b1b-abcfa4cab578",
+      "title": "National Lampoon's Animal House",
+      "year": 1978,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "031f9d6c-3d5a-4256-a839-ef86f125d197",
+      "title": "This is the End",
+      "year": 2013,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "eb3c451d-d455-4b77-85af-c0ca2db19f89",
+      "title": "Scott Pilgrim vs. the World",
+      "year": 2010,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "8bd50922-dfa8-453f-a599-3750233657a2",
+      "title": "Juno",
+      "year": 2007,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "69b9990f-ab14-4b38-97af-f027b3881e3c",
+      "title": "Nick & Norah's Infinite Playist",
+      "year": 2008,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "a343ad46-c297-4376-b86c-de6f2c229d00",
+      "title": "Kicking & Screaming",
+      "year": 2005,
+      "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "04869fec-4664-4e96-a232-4759628ee122",
+      "title": "Talladega Nights: The Ballad of Ricky Bobby",
+      "year": 2006,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "90f0fd47-023b-49ff-823a-fcf58c8b7d11",
+      "title": "Dodgeball: A True Underdog Story",
+      "year": 2004,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "96687fa1-e894-42ca-8cbb-d575e0dd96e2",
+      "title": "Caddyshack",
+      "year": 1980,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "6cf44a5a-54be-434d-9abb-d97c9948fcba",
+      "title": "Happy Gilmore",
+      "year": 1996,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "c8ee3dcc-7f04-45aa-a048-e4d0ec87def4",
+      "title": "Ghostbusters",
+      "year": 1984,
+      "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "c87abfcf-a538-4e32-b350-101311af581a",
+      "title": "Three Amigos",
+      "year": 1986,
+      "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "283656c7-deb6-4535-bf4a-2a129abc1c0a",
+      "title": "Eight Men Out",
+      "year": 1988,
+      "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "6c69d3ec-c505-4758-a108-dbca59303fe7",
+      "title": "Field of Dreams",
+      "year": 1989,
+      "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "791d0b19-3651-41ad-b64d-d05a5c402032",
+      "title": "Moneyball",
+      "year": 2011,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "01f120d8-eacf-4683-b684-e4b223a048f5",
+      "title": "Major League",
+      "year": 1989,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "00594a00-2a1c-4aea-b886-8225a6fb5afa",
+      "title": "Bull Durham",
+      "year": 1988,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "63ab1f4c-0ad0-4063-933a-78b1697cf5f1",
+      "title": "Breaking Away",
+      "year": 1979,
+      "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "61a03b7b-9408-4623-8d05-7f462ff49b2a",
+      "title": "The Graduate",
+      "year": 1967,
+      "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "14dbaacb-da0c-4650-bffc-01472615951f",
+      "title": "Seven Psychopaths",
+      "year": 2012,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "72e6764b-3a88-425a-a638-fe96f12fa544",
+      "title": "Hairspray",
+      "year": 2007,
+      "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "b3caf9eb-d427-4e13-871a-325b7e2cf969",
+      "title": "Seeking a Friend for the End of the World",
+      "year": 2012,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "0d9f2819-bb27-4017-8ffb-9eb669ba4fc1",
+      "title": "Deep Impact",
+      "year": 1998,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "ed88d916-26f0-4ff5-86e3-6e95dc0ff5b3",
+      "title": "2012",
+      "year": 2009,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "94fcddc1-28ab-4774-b456-9f26ebeaff52",
+      "title": "Click",
+      "year": 2006,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "23edb4bd-7127-40fc-bc32-9535e26732c4",
+      "title": "Wedding Crashers",
+      "year": 2005,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "0a4c3752-3e89-4856-b26b-b75630782731",
+      "title": "The Stepford Wives",
+      "year": 2004,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "35c6aeb2-d6ce-4b8b-a951-1c9e3921e527",
+      "title": "America's Sweethearts",
+      "year": 2001,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "f2de0e29-0fbd-4b0e-9dbf-c2256dd75e02",
+      "title": "Sleepy Hollow",
+      "year": 1999,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "0542348d-2a90-4fe9-8312-469f82fb19e8",
+      "title": "Sleepless in Seattle",
+      "year": 1993,
+      "rated": "PG",
       "director": "N/A",
       "plot": ""
     }
