@@ -39,6 +39,10 @@
     { "id": "010763cf-7550-498a-901d-ef18a1e532bb", "name": "Sports" },
     { "id": "4d8054b6-68ba-4109-8b66-1fb9a5aac863", "name": "Teen" },
     { "id": "fb70d622-7921-48d9-a4b9-51a2b0e02361", "name": "Spy" },
-    { "id": "09990ea5-4f9c-4b0f-9bf8-bb17cb616bcb", "name": "Coming of Age" }
+    { "id": "09990ea5-4f9c-4b0f-9bf8-bb17cb616bcb", "name": "Coming of Age" },
+    { "id": "5edf25a9-03cd-49f0-8418-7c2c69f2802c", "name": "Survival" },
+    { "id": "ce8680db-cc3e-47eb-a969-462da055423c", "name": "Raunchy" },
+    { "id": "e90115ee-f23b-4024-a09b-fef01ee44081", "name": "Cars/Racing" },
+    { "id": "6eab44a2-c0b9-4ea6-b616-5cf900c83678", "name": "Light-Hearted" }
   ]
 }

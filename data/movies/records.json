@@ -1322,7 +1322,7 @@
     },
     {
       "id": "3cf87766-5111-43f6-9459-37d72991895f",
-      "title": "We're the MIllers",
+      "title": "We're the Millers",
       "year": 2013,
       "rated": "R",
       "director": "N/A",
@@ -1661,6 +1661,246 @@
       "title": "Sleepless in Seattle",
       "year": 1993,
       "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "ff4e92aa-39ab-4479-8237-34bca3357c04",
+      "title": "The  Martian",
+      "year": 2015,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "f32f0a33-4bf4-49af-acbe-92930e33796f",
+      "title": "Apollo 13",
+      "year": 1995,
+      "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "f61bfc68-fa1d-41ae-ae81-4946b9d87ea8",
+      "title": "Passengers",
+      "year": 2016,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "06972152-a23c-4739-92d0-73305be5c981",
+      "title": "The Revenant",
+      "year": 2015,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "cb1911a0-0ff5-429d-bcb4-6c19650f1a64",
+      "title": "Moon",
+      "year": 2009,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "5f060b25-7901-440a-b690-3397d6016601",
+      "title": "Thirteen Lives",
+      "year": 2022,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "774c7e98-ecf7-4916-b448-a5b5f1ff2366",
+      "title": "Ex Machina",
+      "year": 2014,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "ce7d104e-b2c2-4868-a1d8-d0d4f0da2e27",
+      "title": "Her",
+      "year": 2013,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "6520cddc-c267-474e-8dfe-cddca0a701c7",
+      "title": "Eagle Eye",
+      "year": 2008,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "88ea1de0-cd26-47c9-83c5-a667e6cab665",
+      "title": "The Unbearable Weight of Massive Talent",
+      "year": 2022,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "4d2e1df1-5114-4787-95c1-6f3e5e53df47",
+      "title": "Kick-Ass",
+      "year": 2010,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "3950f69a-7067-4fcb-86a1-daf57a246fa2",
+      "title": "Next",
+      "year": 2007,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "ed46fff7-1e16-4d14-979a-21366ca9870b",
+      "title": "Ghost Rider",
+      "year": 2007,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "80d65cf6-746f-439e-97ba-e9504317327e",
+      "title": "Gone in 60 Seconds",
+      "year": 2000,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "4fcb4789-c855-4d47-b014-f0d81a107c07",
+      "title": "The Rock",
+      "year": 1996,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "07e717a1-3fd7-4699-8bab-47efb2e6778a",
+      "title": "Moonstruck",
+      "year": 1987,
+      "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "7ca34eab-b0d0-4bc3-b9eb-f34bc1015666",
+      "title": "Raising Arizonaa",
+      "year": 1987,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "ce0d31ab-6745-416a-bb80-800dac436870",
+      "title": "Peggy Sue Got Married",
+      "year": 1986,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "12b6e1f6-0332-43c1-8654-727f4acd20e8",
+      "title": "Fast Times at Ridgemont High",
+      "year": 1982,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "7239bccb-e652-4d36-a7fe-124c86551356",
+      "title": "Coneheads",
+      "year": 1993,
+      "rated": "PG",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "ad5f5b80-fe59-4b2b-a044-8997d4cbd5be",
+      "title": "The Waterboy",
+      "year": 1998,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "36e0d3a8-93dd-4851-a988-91098794a479",
+      "title": "Big Daddy",
+      "year": 1999,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "4e6f1d1c-9cab-4277-8608-6633f38f9281",
+      "title": "Mr. Deeds",
+      "year": 2002,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "23db9263-bc24-4347-affa-9f2c5b43b2ec",
+      "title": "Anger Management",
+      "year": 2003,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "7ad46ce8-09d8-4e4a-907b-c8a78b91a455",
+      "title": "50 First Dates",
+      "year": 2004,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "436484ca-b3e0-4d73-acb6-61fc5d96a11c",
+      "title": "Hustle",
+      "year": 2022,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "4a1893c6-83be-46a3-93b8-3f585978756a",
+      "title": "American Hustle",
+      "year": 2013,
+      "rated": "R",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "1ccc3e23-f8bb-4234-94e7-651981514e5a",
+      "title": "The Italian Job",
+      "year": 2003,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "1e7f7d80-a237-4ff4-961f-b93aefd6b5a2",
+      "title": "Taken",
+      "year": 2008,
+      "rated": "PG-13",
+      "director": "N/A",
+      "plot": ""
+    },
+    {
+      "id": "62e7b519-b8c3-497d-b9ea-3386b8804f99",
+      "title": "Air Force One",
+      "year": 1997,
+      "rated": "R",
       "director": "N/A",
       "plot": ""
     }

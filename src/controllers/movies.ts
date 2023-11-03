@@ -56,8 +56,7 @@ export const GetMovies = async (req: Request, res: Response) => {
         genres
       ON
         movie_genres.genre_id = genres.id
-      ORDER BY RANDOM()
-      LIMIT 25;`
+      ORDER BY RANDOM();`
       // ^ NOTE: limit effects the genres returned so this MUST be temporaary
   
     db.all(query, async(err, rows) => {
