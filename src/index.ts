@@ -4,6 +4,7 @@ import express, { Request, Response } from 'express'
 import bodyParser from 'body-parser';
 
 // routes
+import authRoutes from './routes/auth'
 import tableRoutes from './routes/table'
 import movieRoutes from './routes/movies'
 import movieRatings from './routes/movie-ratings'
@@ -21,6 +22,7 @@ app.get('/', (req: Request, res: Response) => {
   res.send('Hello I am TS server')
 })
 
+app.use('/auth', authRoutes)
 app.use('/full-table', tableRoutes)
 app.use('/movie', movieRoutes)
 app.use('/movie-ratings', movieRatings)
