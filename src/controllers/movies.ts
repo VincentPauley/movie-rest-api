@@ -45,18 +45,21 @@ export const GetMovies = async (req: Request, res: Response) => {
         title,
         year,
         rated,
-        genres.name AS genre
+        genre_id AS genre
       FROM
         movies
       LEFT OUTER JOIN
         movie_genres
       ON
         movie_genres.movie_id = movies.id
-      LEFT OUTER JOIN
-        genres
-      ON
-        movie_genres.genre_id = genres.id
       ORDER BY RANDOM();`
+
+      // -- the other piece of the join for genre names
+      // LEFT OUTER JOIN
+      //   genres
+      // ON
+      //   movie_genres.genre_id = genres.id
+
       // ^ NOTE: limit effects the genres returned so this MUST be temporaary
   
     db.all(query, async(err, rows) => {
@@ -141,6 +144,9 @@ export const AddMovie = (req: Request, res: Response) => {
 
     const id = uuidv4()
 
+    console.log('>> Add Genre Records')
+    console.log()
+
     db.run(`
       INSERT INTO
         movies
@@ -157,6 +163,25 @@ export const AddMovie = (req: Request, res: Response) => {
         if (err) {
           return res.status(400).json({ message: 'Insertion failed.'})
         }
+
+        req.body.genres.forEach((genreId: string) => {
+          db.run(`
+            INSERT INTO
+              movie_genres
+            (movie_id, genre_id)
+              VALUES
+            (?,?)`,
+            [id, genreId],
+            (err => {
+              if (err) {
+                console.log('--error')
+                console.log(err)
+              }
+
+              console.log('added genres')
+            })
+          )
+        })
 
         return res.status(200).json({ created: id })
       })
