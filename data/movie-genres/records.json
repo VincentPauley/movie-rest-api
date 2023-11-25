@@ -931,6 +931,2402 @@
     {
       "movie_id": "d459a15f-1920-4a49-83ce-6f413de8a4ba",
       "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "38517976-9e20-4041-af78-6619e5341cb0",
+      "genre_id": "e573dc6f-f911-495e-8a4a-d0a48329d179"
+    },
+    {
+      "movie_id": "38517976-9e20-4041-af78-6619e5341cb0",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "38517976-9e20-4041-af78-6619e5341cb0",
+      "genre_id": "35b8aeef-a374-4b1b-88d9-b57c78a2967a"
+    },
+    {
+      "movie_id": "a343ad46-c297-4376-b86c-de6f2c229d00",
+      "genre_id": "010763cf-7550-498a-901d-ef18a1e532bb"
+    },
+    {
+      "movie_id": "1ccc3e23-f8bb-4234-94e7-651981514e5a",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "1ccc3e23-f8bb-4234-94e7-651981514e5a",
+      "genre_id": "e90115ee-f23b-4024-a09b-fef01ee44081"
+    },
+    {
+      "movie_id": "1ccc3e23-f8bb-4234-94e7-651981514e5a",
+      "genre_id": "d594a368-c083-4141-b982-749aca61e5c2"
+    },
+    {
+      "movie_id": "e78f5fc1-222d-4869-80ae-51590c28e41b",
+      "genre_id": "4d8054b6-68ba-4109-8b66-1fb9a5aac863"
+    },
+    {
+      "movie_id": "434d9fd0-7bad-4620-b25c-24afba38c8e4",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "434d9fd0-7bad-4620-b25c-24afba38c8e4",
+      "genre_id": "32ea91f9-8c22-4dc0-aa22-02852a414b5c"
+    },
+    {
+      "movie_id": "f02cc5e3-752d-4286-8a19-f73caad6c277",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "f02cc5e3-752d-4286-8a19-f73caad6c277",
+      "genre_id": "d594a368-c083-4141-b982-749aca61e5c2"
+    },
+    {
+      "movie_id": "9e2f7423-873c-4310-9acb-5ca9312efb0a",
+      "genre_id": "e90115ee-f23b-4024-a09b-fef01ee44081"
+    },
+    {
+      "movie_id": "f2fa9ffa-90cd-4cb8-8ca2-48b5607d1790",
+      "genre_id": "d594a368-c083-4141-b982-749aca61e5c2"
+    },
+    {
+      "movie_id": "f2fa9ffa-90cd-4cb8-8ca2-48b5607d1790",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "12449a81-3a3c-427e-92a3-e7a1b6470e15",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "b843ba15-3ead-439e-a7e2-35ae0158c22b",
+      "genre_id": "4d8054b6-68ba-4109-8b66-1fb9a5aac863"
+    },
+    {
+      "movie_id": "b843ba15-3ead-439e-a7e2-35ae0158c22b",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "b843ba15-3ead-439e-a7e2-35ae0158c22b",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "025e6cb8-3805-4157-bfe4-37a227e93b64",
+      "genre_id": "4d8054b6-68ba-4109-8b66-1fb9a5aac863"
+    },
+    {
+      "movie_id": "025e6cb8-3805-4157-bfe4-37a227e93b64",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "aff272c6-2735-4731-9da3-f67be79e3118",
+      "genre_id": "4d8054b6-68ba-4109-8b66-1fb9a5aac863"
+    },
+    {
+      "movie_id": "aff272c6-2735-4731-9da3-f67be79e3118",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "aff272c6-2735-4731-9da3-f67be79e3118",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "35b3b999-b4e4-4660-9a9e-f1c9ddcd54b7",
+      "genre_id": "4d8054b6-68ba-4109-8b66-1fb9a5aac863"
+    },
+    {
+      "movie_id": "35b3b999-b4e4-4660-9a9e-f1c9ddcd54b7",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "35b3b999-b4e4-4660-9a9e-f1c9ddcd54b7",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "6f69a876-1830-4628-bad2-e53f0d176f11",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "6f69a876-1830-4628-bad2-e53f0d176f11",
+      "genre_id": "4d8054b6-68ba-4109-8b66-1fb9a5aac863"
+    },
+    {
+      "movie_id": "6f69a876-1830-4628-bad2-e53f0d176f11",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "f9f63b8b-1945-4298-8c56-3cfbf95e6426",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "da8213a7-39a5-4fc6-84e9-0322091c575d",
+      "genre_id": "6ceb7567-d17b-4e8f-b3a1-c56ab3e3f280"
+    },
+    {
+      "movie_id": "da8213a7-39a5-4fc6-84e9-0322091c575d",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "d58f38f8-2ee6-457c-97fa-7e4d4c2dfdde",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "d58f38f8-2ee6-457c-97fa-7e4d4c2dfdde",
+      "genre_id": "4d8054b6-68ba-4109-8b66-1fb9a5aac863"
+    },
+    {
+      "movie_id": "d58f38f8-2ee6-457c-97fa-7e4d4c2dfdde",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "78427a39-b4b4-4898-8205-59f27a05c792",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "f5018262-d763-4bb7-ace6-dcd3aa4d43f7",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "f5018262-d763-4bb7-ace6-dcd3aa4d43f7",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "1a29d3e7-0b19-413c-bc88-761a04f9917c",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "1a29d3e7-0b19-413c-bc88-761a04f9917c",
+      "genre_id": "d594a368-c083-4141-b982-749aca61e5c2"
+    },
+    {
+      "movie_id": "116f2516-3cc1-4e68-9f1c-28b484aee72e",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "116f2516-3cc1-4e68-9f1c-28b484aee72e",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "60b8d3cd-a1ec-4610-b77d-73f6740cfd2c",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "975772b4-b7c3-45af-b875-f761f9c4b142",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "975772b4-b7c3-45af-b875-f761f9c4b142",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "42713e38-771f-42ed-b80e-8000ee271e22",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "ea9cce10-656c-47df-a58b-b10a19bcdad2",
+      "genre_id": "ce8680db-cc3e-47eb-a969-462da055423c"
+    },
+    {
+      "movie_id": "ea9cce10-656c-47df-a58b-b10a19bcdad2",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "f7ea5999-6843-4d8a-8fbd-22f665b4ea89",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "257f3306-d419-4445-a4ed-6f53524de7a7",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "257f3306-d419-4445-a4ed-6f53524de7a7",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "279425f2-8284-4bd7-95e2-66497be44662",
+      "genre_id": "6183c8d9-1f47-4254-b095-ea361cc30770"
+    },
+    {
+      "movie_id": "279425f2-8284-4bd7-95e2-66497be44662",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "770a54fd-1573-43e0-9bc6-59cdbce8f34b",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "770a54fd-1573-43e0-9bc6-59cdbce8f34b",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "1404713f-d97f-40a2-91ea-f59f7100eaad",
+      "genre_id": "32ea91f9-8c22-4dc0-aa22-02852a414b5c"
+    },
+    {
+      "movie_id": "1404713f-d97f-40a2-91ea-f59f7100eaad",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "28754a0b-6f6a-4d7a-9802-bc35b1c0f66a",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "28754a0b-6f6a-4d7a-9802-bc35b1c0f66a",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "dacab64c-3627-4101-81c4-a555ede5d226",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "b8fdb1a7-f422-4184-945f-4535b6fdf1ca",
+      "genre_id": "4d8054b6-68ba-4109-8b66-1fb9a5aac863"
+    },
+    {
+      "movie_id": "b8fdb1a7-f422-4184-945f-4535b6fdf1ca",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "e40bc138-5548-4982-9e37-be689bbe832c",
+      "genre_id": "6ceb7567-d17b-4e8f-b3a1-c56ab3e3f280"
+    },
+    {
+      "movie_id": "e40bc138-5548-4982-9e37-be689bbe832c",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "f32f0a33-4bf4-49af-acbe-92930e33796f",
+      "genre_id": "520f8db8-d069-4232-b11c-cc45fcbf9599"
+    },
+    {
+      "movie_id": "b952c6fd-792a-41f4-8e96-37006d91a152",
+      "genre_id": "32ea91f9-8c22-4dc0-aa22-02852a414b5c"
+    },
+    {
+      "movie_id": "e0706b36-61e2-4236-b2ae-4395f0e6255a",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "7f3720f6-f04d-403e-946e-5e85517b5cfd",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "7f3720f6-f04d-403e-946e-5e85517b5cfd",
+      "genre_id": "6eab44a2-c0b9-4ea6-b616-5cf900c83678"
+    },
+    {
+      "movie_id": "6cf44a5a-54be-434d-9abb-d97c9948fcba",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "6cf44a5a-54be-434d-9abb-d97c9948fcba",
+      "genre_id": "6eab44a2-c0b9-4ea6-b616-5cf900c83678"
+    },
+    {
+      "movie_id": "12abbf2b-2f1e-4c7c-b2a6-0209ec8222cc",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "12abbf2b-2f1e-4c7c-b2a6-0209ec8222cc",
+      "genre_id": "fb779537-9920-4874-8070-b3336c79e3af"
+    },
+    {
+      "movie_id": "12abbf2b-2f1e-4c7c-b2a6-0209ec8222cc",
+      "genre_id": "e573dc6f-f911-495e-8a4a-d0a48329d179"
+    },
+    {
+      "movie_id": "36990523-177c-48df-9f86-f017d475b9d0",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "36990523-177c-48df-9f86-f017d475b9d0",
+      "genre_id": "4d8054b6-68ba-4109-8b66-1fb9a5aac863"
+    },
+    {
+      "movie_id": "36990523-177c-48df-9f86-f017d475b9d0",
+      "genre_id": "ce8680db-cc3e-47eb-a969-462da055423c"
+    },
+    {
+      "movie_id": "5b241106-9de7-4d69-920d-54f688411794",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "5b241106-9de7-4d69-920d-54f688411794",
+      "genre_id": "e87e1f7c-df23-4a02-8a97-b8fa375e6e8d"
+    },
+    {
+      "movie_id": "3950f69a-7067-4fcb-86a1-daf57a246fa2",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "3950f69a-7067-4fcb-86a1-daf57a246fa2",
+      "genre_id": "6183c8d9-1f47-4254-b095-ea361cc30770"
+    },
+    {
+      "movie_id": "9dd6850d-0b85-45bf-af74-6b76643f16ff",
+      "genre_id": "c372c907-c11e-4811-ae5a-5c41681f2698"
+    },
+    {
+      "movie_id": "8bd50922-dfa8-453f-a599-3750233657a2",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "8bd50922-dfa8-453f-a599-3750233657a2",
+      "genre_id": "4d8054b6-68ba-4109-8b66-1fb9a5aac863"
+    },
+    {
+      "movie_id": "b3771c8e-599c-4edc-bf07-a85e26669718",
+      "genre_id": "6ceb7567-d17b-4e8f-b3a1-c56ab3e3f280"
+    },
+    {
+      "movie_id": "b3771c8e-599c-4edc-bf07-a85e26669718",
+      "genre_id": "7a4fcc75-0602-4d27-ae34-cf0a2e8089ff"
+    },
+    {
+      "movie_id": "98jjwez65f-fa51-45ad-8595-30c82658d6f8",
+      "genre_id": "4f8c446c-8691-46bd-a9e0-bb191bf198a2"
+    },
+    {
+      "movie_id": "98jjwez65f-fa51-45ad-8595-30c82658d6f8",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "98jjwez65f-fa51-45ad-8595-30c82658d6f8",
+      "genre_id": "09990ea5-4f9c-4b0f-9bf8-bb17cb616bcb"
+    },
+    {
+      "movie_id": "98jjwez65f-fa51-45ad-8595-30c82658d6f8",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "f06767cc-d02a-408b-853c-8e4ac612ec1a",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "f06767cc-d02a-408b-853c-8e4ac612ec1a",
+      "genre_id": "d594a368-c083-4141-b982-749aca61e5c2"
+    },
+    {
+      "movie_id": "703f5f1c-53c0-44a5-a3ce-f9eff01d9fd9",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "703f5f1c-53c0-44a5-a3ce-f9eff01d9fd9",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "6646200c-6865-4062-9aae-cfe461dd44a0",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "6646200c-6865-4062-9aae-cfe461dd44a0",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "0cc994c3-d680-412d-9938-5467aaf884c4",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "0cc994c3-d680-412d-9938-5467aaf884c4",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "66bccf3f-d8b8-43fb-ae30-12af20c2d47d",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "66bccf3f-d8b8-43fb-ae30-12af20c2d47d",
+      "genre_id": "d594a368-c083-4141-b982-749aca61e5c2"
+    },
+    {
+      "movie_id": "6520cddc-c267-474e-8dfe-cddca0a701c7",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "6520cddc-c267-474e-8dfe-cddca0a701c7",
+      "genre_id": "e87e1f7c-df23-4a02-8a97-b8fa375e6e8d"
+    },
+    {
+      "movie_id": "6520cddc-c267-474e-8dfe-cddca0a701c7",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "c8ee3dcc-7f04-45aa-a048-e4d0ec87def4",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "c8ee3dcc-7f04-45aa-a048-e4d0ec87def4",
+      "genre_id": "6183c8d9-1f47-4254-b095-ea361cc30770"
+    },
+    {
+      "movie_id": "c8ee3dcc-7f04-45aa-a048-e4d0ec87def4",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "12b6e1f6-0332-43c1-8654-727f4acd20e8",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "12b6e1f6-0332-43c1-8654-727f4acd20e8",
+      "genre_id": "4d8054b6-68ba-4109-8b66-1fb9a5aac863"
+    },
+    {
+      "movie_id": "6c69d3ec-c505-4758-a108-dbca59303fe7",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "6c69d3ec-c505-4758-a108-dbca59303fe7",
+      "genre_id": "6ceb7567-d17b-4e8f-b3a1-c56ab3e3f280"
+    },
+    {
+      "movie_id": "6c69d3ec-c505-4758-a108-dbca59303fe7",
+      "genre_id": "010763cf-7550-498a-901d-ef18a1e532bb"
+    },
+    {
+      "movie_id": "1e7f7d80-a237-4ff4-961f-b93aefd6b5a2",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "1e7f7d80-a237-4ff4-961f-b93aefd6b5a2",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "66cdf943-60e6-4cd5-b341-98a75a639ec3",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "9b82d8b9-5c14-4063-948b-e3b1e8a584b4",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "b3caf9eb-d427-4e13-871a-325b7e2cf969",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "b3caf9eb-d427-4e13-871a-325b7e2cf969",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "b3caf9eb-d427-4e13-871a-325b7e2cf969",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "90f0fd47-023b-49ff-823a-fcf58c8b7d11",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "90f0fd47-023b-49ff-823a-fcf58c8b7d11",
+      "genre_id": "6eab44a2-c0b9-4ea6-b616-5cf900c83678"
+    },
+    {
+      "movie_id": "90f0fd47-023b-49ff-823a-fcf58c8b7d11",
+      "genre_id": "010763cf-7550-498a-901d-ef18a1e532bb"
+    },
+    {
+      "movie_id": "1331bbfa-87bb-4e0d-a2fc-a536fd7bd473",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "1331bbfa-87bb-4e0d-a2fc-a536fd7bd473",
+      "genre_id": "520f8db8-d069-4232-b11c-cc45fcbf9599"
+    },
+    {
+      "movie_id": "0d9f2819-bb27-4017-8ffb-9eb669ba4fc1",
+      "genre_id": "4f8c446c-8691-46bd-a9e0-bb191bf198a2"
+    },
+    {
+      "movie_id": "0d9f2819-bb27-4017-8ffb-9eb669ba4fc1",
+      "genre_id": "6183c8d9-1f47-4254-b095-ea361cc30770"
+    },
+    {
+      "movie_id": "0d9f2819-bb27-4017-8ffb-9eb669ba4fc1",
+      "genre_id": "6ceb7567-d17b-4e8f-b3a1-c56ab3e3f280"
+    },
+    {
+      "movie_id": "c751ee83-5d57-46b7-b831-0f27af200b83",
+      "genre_id": "32ea91f9-8c22-4dc0-aa22-02852a414b5c"
+    },
+    {
+      "movie_id": "c751ee83-5d57-46b7-b831-0f27af200b83",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "6c417391-c4e7-4a1a-b246-eb89f20a39dc",
+      "genre_id": "4d8054b6-68ba-4109-8b66-1fb9a5aac863"
+    },
+    {
+      "movie_id": "6c417391-c4e7-4a1a-b246-eb89f20a39dc",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "cc39cd23-bf72-46c1-977a-09f116172e74",
+      "genre_id": "520f8db8-d069-4232-b11c-cc45fcbf9599"
+    },
+    {
+      "movie_id": "04869fec-4664-4e96-a232-4759628ee122",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "04869fec-4664-4e96-a232-4759628ee122",
+      "genre_id": "e90115ee-f23b-4024-a09b-fef01ee44081"
+    },
+    {
+      "movie_id": "3fdcd671-69b7-4c62-999e-428b1bc8e11c",
+      "genre_id": "ce8680db-cc3e-47eb-a969-462da055423c"
+    },
+    {
+      "movie_id": "3fdcd671-69b7-4c62-999e-428b1bc8e11c",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "faf823f1-70e6-4d4b-9583-a14fcc3c8483",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "faf823f1-70e6-4d4b-9583-a14fcc3c8483",
+      "genre_id": "e87e1f7c-df23-4a02-8a97-b8fa375e6e8d"
+    },
+    {
+      "movie_id": "2b877f1b-fd9f-43f1-b253-817c7c5f00ef",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "2b877f1b-fd9f-43f1-b253-817c7c5f00ef",
+      "genre_id": "d594a368-c083-4141-b982-749aca61e5c2"
+    },
+    {
+      "movie_id": "0eee4b10-a358-415f-9f22-d4348de87003",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "74e6d48c-930e-4d29-9a69-79da70291252",
+      "genre_id": "4d8054b6-68ba-4109-8b66-1fb9a5aac863"
+    },
+    {
+      "movie_id": "74e6d48c-930e-4d29-9a69-79da70291252",
+      "genre_id": "6eab44a2-c0b9-4ea6-b616-5cf900c83678"
+    },
+    {
+      "movie_id": "ad5f5b80-fe59-4b2b-a044-8997d4cbd5be",
+      "genre_id": "010763cf-7550-498a-901d-ef18a1e532bb"
+    },
+    {
+      "movie_id": "ad5f5b80-fe59-4b2b-a044-8997d4cbd5be",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "ed46fff7-1e16-4d14-979a-21366ca9870b",
+      "genre_id": "7a4fcc75-0602-4d27-ae34-cf0a2e8089ff"
+    },
+    {
+      "movie_id": "eb3c451d-d455-4b77-85af-c0ca2db19f89",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "eb3c451d-d455-4b77-85af-c0ca2db19f89",
+      "genre_id": "7a4fcc75-0602-4d27-ae34-cf0a2e8089ff"
+    },
+    {
+      "movie_id": "4d2e1df1-5114-4787-95c1-6f3e5e53df47",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "4d2e1df1-5114-4787-95c1-6f3e5e53df47",
+      "genre_id": "7a4fcc75-0602-4d27-ae34-cf0a2e8089ff"
+    },
+    {
+      "movie_id": "8c89ff72-df74-4bcb-ae1e-e420143ae33e",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "8c89ff72-df74-4bcb-ae1e-e420143ae33e",
+      "genre_id": "d594a368-c083-4141-b982-749aca61e5c2"
+    },
+    {
+      "movie_id": "8f77e21f-3375-4e77-8d25-95f71a626296",
+      "genre_id": "d594a368-c083-4141-b982-749aca61e5c2"
+    },
+    {
+      "movie_id": "8f77e21f-3375-4e77-8d25-95f71a626296",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "e2b64f14-2997-4c3e-b09d-e8e2b490c8b0",
+      "genre_id": "d594a368-c083-4141-b982-749aca61e5c2"
+    },
+    {
+      "movie_id": "e2b64f14-2997-4c3e-b09d-e8e2b490c8b0",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "e2b64f14-2997-4c3e-b09d-e8e2b490c8b0",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "9a023d99-f437-4eb4-9b32-df7f2aaf4894",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "9a023d99-f437-4eb4-9b32-df7f2aaf4894",
+      "genre_id": "e573dc6f-f911-495e-8a4a-d0a48329d179"
+    },
+    {
+      "movie_id": "9a023d99-f437-4eb4-9b32-df7f2aaf4894",
+      "genre_id": "fb779537-9920-4874-8070-b3336c79e3af"
+    },
+    {
+      "movie_id": "f2de0e29-0fbd-4b0e-9dbf-c2256dd75e02",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "f2de0e29-0fbd-4b0e-9dbf-c2256dd75e02",
+      "genre_id": "00093ca9-e3b3-44db-ad43-7f0d5ec60da3"
+    },
+    {
+      "movie_id": "405ae610-f545-4c81-baf1-26fa3e44d8d0",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "405ae610-f545-4c81-baf1-26fa3e44d8d0",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "5c445d40-3fcf-4394-8b60-385cc1b6e8b1",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "5c445d40-3fcf-4394-8b60-385cc1b6e8b1",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "75831d69-3677-423b-9608-569d0c63273b",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "75831d69-3677-423b-9608-569d0c63273b",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "75831d69-3677-423b-9608-569d0c63273b",
+      "genre_id": "6183c8d9-1f47-4254-b095-ea361cc30770"
+    },
+    {
+      "movie_id": "75831d69-3677-423b-9608-569d0c63273b",
+      "genre_id": "0be842c9-4f98-4818-96b0-5632271e8a0d"
+    },
+    {
+      "movie_id": "ff4e92aa-39ab-4479-8237-34bca3357c04",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "ff4e92aa-39ab-4479-8237-34bca3357c04",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "1d5ad229-380b-4548-834b-d63b0891b3bc",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "1d5ad229-380b-4548-834b-d63b0891b3bc",
+      "genre_id": "6eab44a2-c0b9-4ea6-b616-5cf900c83678"
+    },
+    {
+      "movie_id": "8dbe6a9a-2649-4eb5-ba42-94a073e39c79",
+      "genre_id": "fb779537-9920-4874-8070-b3336c79e3af"
+    },
+    {
+      "movie_id": "8dbe6a9a-2649-4eb5-ba42-94a073e39c79",
+      "genre_id": "6183c8d9-1f47-4254-b095-ea361cc30770"
+    },
+    {
+      "movie_id": "02b661c5-5743-434b-9d6e-a008a2236166",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "004b9714-df6a-46c1-bd92-a0d4016791be",
+      "genre_id": "e573dc6f-f911-495e-8a4a-d0a48329d179"
+    },
+    {
+      "movie_id": "004b9714-df6a-46c1-bd92-a0d4016791be",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "004b9714-df6a-46c1-bd92-a0d4016791be",
+      "genre_id": "fb779537-9920-4874-8070-b3336c79e3af"
+    },
+    {
+      "movie_id": "7f882296-4b0e-4405-8a67-0034dd832d13",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "0a4c3752-3e89-4856-b26b-b75630782731",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "0a4c3752-3e89-4856-b26b-b75630782731",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "a08ae783-68ac-4505-99dc-c4e652c7f64f",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "c87abfcf-a538-4e32-b350-101311af581a",
+      "genre_id": "35b8aeef-a374-4b1b-88d9-b57c78a2967a"
+    },
+    {
+      "movie_id": "c87abfcf-a538-4e32-b350-101311af581a",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "2a983386-a83c-47ec-b4ad-2e25c64310d5",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "2a983386-a83c-47ec-b4ad-2e25c64310d5",
+      "genre_id": "35b8aeef-a374-4b1b-88d9-b57c78a2967a"
+    },
+    {
+      "movie_id": "7239bccb-e652-4d36-a7fe-124c86551356",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "7239bccb-e652-4d36-a7fe-124c86551356",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "4cd7149b-ae19-4eaa-8695-51533bd79bb5",
+      "genre_id": "c372c907-c11e-4811-ae5a-5c41681f2698"
+    },
+    {
+      "movie_id": "a6be2457-6b56-4a9e-a70a-9908843b6fef",
+      "genre_id": "c372c907-c11e-4811-ae5a-5c41681f2698"
+    },
+    {
+      "movie_id": "6f4d87ff-0c69-43f3-9112-c1376921ecd7",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "6f4d87ff-0c69-43f3-9112-c1376921ecd7",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "437430a4-4c94-4d1c-bf22-fef7e0cfa5a7",
+      "genre_id": "c372c907-c11e-4811-ae5a-5c41681f2698"
+    },
+    {
+      "movie_id": "07e717a1-3fd7-4699-8bab-47efb2e6778a",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "07e717a1-3fd7-4699-8bab-47efb2e6778a",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "14bb6c53-fc7d-44cc-aab0-45365e01207e",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "14bb6c53-fc7d-44cc-aab0-45365e01207e",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "0965291e-e538-492f-8ca5-b8afde9da8a1",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "0965291e-e538-492f-8ca5-b8afde9da8a1",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "7a3610be-7237-4f8e-a252-69f41ff91534",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "7a3610be-7237-4f8e-a252-69f41ff91534",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "7e6d74ff-ddae-4a38-9f74-72dfcc618844",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "7e6d74ff-ddae-4a38-9f74-72dfcc618844",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "a3819a9e-989f-4210-a325-65afb7878efb",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "a3819a9e-989f-4210-a325-65afb7878efb",
+      "genre_id": "fb779537-9920-4874-8070-b3336c79e3af"
+    },
+    {
+      "movie_id": "a3819a9e-989f-4210-a325-65afb7878efb",
+      "genre_id": "fb70d622-7921-48d9-a4b9-51a2b0e02361"
+    },
+    {
+      "movie_id": "a3819a9e-989f-4210-a325-65afb7878efb",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "0d369269-0f75-48df-89a9-61f00efb458f",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "0d369269-0f75-48df-89a9-61f00efb458f",
+      "genre_id": "32ea91f9-8c22-4dc0-aa22-02852a414b5c"
+    },
+    {
+      "movie_id": "b49a9371-77b6-499d-b756-75aff8b0f886",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "b49a9371-77b6-499d-b756-75aff8b0f886",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "b49a9371-77b6-499d-b756-75aff8b0f886",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "773e4c76-1cad-4991-a963-185ca397a8d7",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "773e4c76-1cad-4991-a963-185ca397a8d7",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "69243390-753d-4850-b4e0-ffe5dc3ec86e",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "69243390-753d-4850-b4e0-ffe5dc3ec86e",
+      "genre_id": "6183c8d9-1f47-4254-b095-ea361cc30770"
+    },
+    {
+      "movie_id": "bdca647a-3ffd-484c-a3e4-b813136fdca5",
+      "genre_id": "d594a368-c083-4141-b982-749aca61e5c2"
+    },
+    {
+      "movie_id": "bdca647a-3ffd-484c-a3e4-b813136fdca5",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "e72e4a24-2e85-45a2-b83b-ca68b111d0c5",
+      "genre_id": "32ea91f9-8c22-4dc0-aa22-02852a414b5c"
+    },
+    {
+      "movie_id": "e72e4a24-2e85-45a2-b83b-ca68b111d0c5",
+      "genre_id": "e573dc6f-f911-495e-8a4a-d0a48329d179"
+    },
+    {
+      "movie_id": "e72e4a24-2e85-45a2-b83b-ca68b111d0c5",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "01f120d8-eacf-4683-b684-e4b223a048f5",
+      "genre_id": "010763cf-7550-498a-901d-ef18a1e532bb"
+    },
+    {
+      "movie_id": "01f120d8-eacf-4683-b684-e4b223a048f5",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "131a2c4e-96dc-4302-8a5d-5cf59011f081",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "131a2c4e-96dc-4302-8a5d-5cf59011f081",
+      "genre_id": "6ceb7567-d17b-4e8f-b3a1-c56ab3e3f280"
+    },
+    {
+      "movie_id": "1eocf-f09a-4855-9bd1-89asdf0999",
+      "genre_id": "d41277ba-646f-4522-9c71-6214f9074269"
+    },
+    {
+      "movie_id": "1eocf-f09a-4855-9bd1-89asdf0999",
+      "genre_id": "e90115ee-f23b-4024-a09b-fef01ee44081"
+    },
+    {
+      "movie_id": "1eocf-f09a-4855-9bd1-89asdf0999",
+      "genre_id": "4f8c446c-8691-46bd-a9e0-bb191bf198a2"
+    },
+    {
+      "movie_id": "350d6cc7-704f-44be-9f4f-c873fc636bf4",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "350d6cc7-704f-44be-9f4f-c873fc636bf4",
+      "genre_id": "6183c8d9-1f47-4254-b095-ea361cc30770"
+    },
+    {
+      "movie_id": "350d6cc7-704f-44be-9f4f-c873fc636bf4",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "23edb4bd-7127-40fc-bc32-9535e26732c4",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "23edb4bd-7127-40fc-bc32-9535e26732c4",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "23edb4bd-7127-40fc-bc32-9535e26732c4",
+      "genre_id": "6eab44a2-c0b9-4ea6-b616-5cf900c83678"
+    },
+    {
+      "movie_id": "cb1911a0-0ff5-429d-bcb4-6c19650f1a64",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "fc88206a-1bee-43cc-bfed-98eff8e92fb7",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "fc88206a-1bee-43cc-bfed-98eff8e92fb7",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "d0ba5ef5-ee60-4b6e-9cb1-9fe11b4632ad",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "d0ba5ef5-ee60-4b6e-9cb1-9fe11b4632ad",
+      "genre_id": "00093ca9-e3b3-44db-ad43-7f0d5ec60da3"
+    },
+    {
+      "movie_id": "d0ba5ef5-ee60-4b6e-9cb1-9fe11b4632ad",
+      "genre_id": "fb779537-9920-4874-8070-b3336c79e3af"
+    },
+    {
+      "movie_id": "f5018262-d763-4bb7-ace6-dcd3aa4d43f7",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "f5018262-d763-4bb7-ace6-dcd3aa4d43f7",
+      "genre_id": "d594a368-c083-4141-b982-749aca61e5c2"
+    },
+    {
+      "movie_id": "f5018262-d763-4bb7-ace6-dcd3aa4d43f7",
+      "genre_id": "09990ea5-4f9c-4b0f-9bf8-bb17cb616bcb"
+    },
+    {
+      "movie_id": "436484ca-b3e0-4d73-acb6-61fc5d96a11c",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "436484ca-b3e0-4d73-acb6-61fc5d96a11c",
+      "genre_id": "010763cf-7550-498a-901d-ef18a1e532bb"
+    },
+    {
+      "movie_id": "436484ca-b3e0-4d73-acb6-61fc5d96a11c",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "0542348d-2a90-4fe9-8312-469f82fb19e8",
+      "genre_id": "c372c907-c11e-4811-ae5a-5c41681f2698"
+    },
+    {
+      "movie_id": "24ba365f-fa51-45ad-8595-30c82658d6f8",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "24ba365f-fa51-45ad-8595-30c82658d6f8",
+      "genre_id": "d594a368-c083-4141-b982-749aca61e5c2"
+    },
+    {
+      "movie_id": "eb8d02be-7965-46c4-ba2a-1589e744752c",
+      "genre_id": "1ee21bac-31b9-47db-919e-117cdfbc75b7"
+    },
+    {
+      "movie_id": "eb8d02be-7965-46c4-ba2a-1589e744752c",
+      "genre_id": "d594a368-c083-4141-b982-749aca61e5c2"
+    },
+    {
+      "movie_id": "eb8d02be-7965-46c4-ba2a-1589e744752c",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "ed88d916-26f0-4ff5-86e3-6e95dc0ff5b3",
+      "genre_id": "534a0f85-59a3-4ffe-a281-510a0942b54b"
+    },
+    {
+      "movie_id": "ed88d916-26f0-4ff5-86e3-6e95dc0ff5b3",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "b999034d-cd26-465a-a24c-90e018f7c1ab",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "b999034d-cd26-465a-a24c-90e018f7c1ab",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "7a472388-76fa-4c34-86fa-b52f7448dc62",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "7a472388-76fa-4c34-86fa-b52f7448dc62",
+      "genre_id": "d594a368-c083-4141-b982-749aca61e5c2"
+    },
+    {
+      "movie_id": "4dd281ec-37c2-4887-a897-8847ffcec551",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "4dd281ec-37c2-4887-a897-8847ffcec551",
+      "genre_id": "6183c8d9-1f47-4254-b095-ea361cc30770"
+    },
+    {
+      "movie_id": "4dd281ec-37c2-4887-a897-8847ffcec551",
+      "genre_id": "6ceb7567-d17b-4e8f-b3a1-c56ab3e3f280"
+    },
+    {
+      "movie_id": "bb783c35-a84b-4fa2-aac0-b94e9386bf50",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "bb783c35-a84b-4fa2-aac0-b94e9386bf50",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "11b53a48-bc6a-491f-b7ba-0a9fb89e035e",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "b088b63b-14dd-4b3d-a79a-639192eaa765",
+      "genre_id": "c372c907-c11e-4811-ae5a-5c41681f2698"
+    },
+    {
+      "movie_id": "f7602964-2567-4063-a53c-1d37cb7748f1",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "f7602964-2567-4063-a53c-1d37cb7748f1",
+      "genre_id": "ce8680db-cc3e-47eb-a969-462da055423c"
+    },
+    {
+      "movie_id": "f7602964-2567-4063-a53c-1d37cb7748f1",
+      "genre_id": "a1d898d4-5f7f-4256-b024-6b450d8e4d43"
+    },
+    {
+      "movie_id": "aifi9sd65f-fa51-45ad-8595-30c82658d6f8",
+      "genre_id": "4f8c446c-8691-46bd-a9e0-bb191bf198a2"
+    },
+    {
+      "movie_id": "aifi9sd65f-fa51-45ad-8595-30c82658d6f8",
+      "genre_id": "6ceb7567-d17b-4e8f-b3a1-c56ab3e3f280"
+    },
+    {
+      "movie_id": "f2fd6953-cd28-4af6-8d91-6abe8f45774c",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "f2fd6953-cd28-4af6-8d91-6abe8f45774c",
+      "genre_id": "e573dc6f-f911-495e-8a4a-d0a48329d179"
+    },
+    {
+      "movie_id": "f2fd6953-cd28-4af6-8d91-6abe8f45774c",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "711ec1e6-6fcc-40d2-95ab-227808d6ccd8",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "711ec1e6-6fcc-40d2-95ab-227808d6ccd8",
+      "genre_id": "fb779537-9920-4874-8070-b3336c79e3af"
+    },
+    {
+      "movie_id": "2e46cbd8-5846-4a3d-8fc7-9f63de2915ac",
+      "genre_id": "00093ca9-e3b3-44db-ad43-7f0d5ec60da3"
+    },
+    {
+      "movie_id": "2e46cbd8-5846-4a3d-8fc7-9f63de2915ac",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "4271b0d3-93e6-4129-a54e-d42f4b9ae82b",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "4271b0d3-93e6-4129-a54e-d42f4b9ae82b",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "4271b0d3-93e6-4129-a54e-d42f4b9ae82b",
+      "genre_id": "5edf25a9-03cd-49f0-8418-7c2c69f2802c"
+    },
+    {
+      "movie_id": "2f0999be-50da-4a87-969c-62e4741a6c25",
+      "genre_id": "ea2d2622-f1bf-4a12-84de-6bb20dcffc1a"
+    },
+    {
+      "movie_id": "2f0999be-50da-4a87-969c-62e4741a6c25",
+      "genre_id": "6ceb7567-d17b-4e8f-b3a1-c56ab3e3f280"
+    },
+    {
+      "movie_id": "2f0999be-50da-4a87-969c-62e4741a6c25",
+      "genre_id": "6183c8d9-1f47-4254-b095-ea361cc30770"
+    },
+    {
+      "movie_id": "9128e50e-86dc-41bf-8e7b-9c5995fc7b17",
+      "genre_id": "00093ca9-e3b3-44db-ad43-7f0d5ec60da3"
+    },
+    {
+      "movie_id": "9128e50e-86dc-41bf-8e7b-9c5995fc7b17",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "e432ff84-d83f-4e41-948d-e72a0529c7f5",
+      "genre_id": "4f8c446c-8691-46bd-a9e0-bb191bf198a2"
+    },
+    {
+      "movie_id": "e432ff84-d83f-4e41-948d-e72a0529c7f5",
+      "genre_id": "6ceb7567-d17b-4e8f-b3a1-c56ab3e3f280"
+    },
+    {
+      "movie_id": "e432ff84-d83f-4e41-948d-e72a0529c7f5",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "6a8fe49c-c32b-4af5-aada-824dcac2aa91",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "6a8fe49c-c32b-4af5-aada-824dcac2aa91",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "14a65bb8-b857-4dce-b211-73b774f00129",
+      "genre_id": "520f8db8-d069-4232-b11c-cc45fcbf9599"
+    },
+    {
+      "movie_id": "14a65bb8-b857-4dce-b211-73b774f00129",
+      "genre_id": "32ea91f9-8c22-4dc0-aa22-02852a414b5c"
+    },
+    {
+      "movie_id": "97c9300d-03b5-4150-8244-6da562a6d9e2",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "97c9300d-03b5-4150-8244-6da562a6d9e2",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "hhfw098f-f09a-4855-9bd1-dba9ebsdf098",
+      "genre_id": "d41277ba-646f-4522-9c71-6214f9074269"
+    },
+    {
+      "movie_id": "hhfw098f-f09a-4855-9bd1-dba9ebsdf098",
+      "genre_id": "4f8c446c-8691-46bd-a9e0-bb191bf198a2"
+    },
+    {
+      "movie_id": "hhfw098f-f09a-4855-9bd1-dba9ebsdf098",
+      "genre_id": "e90115ee-f23b-4024-a09b-fef01ee44081"
+    },
+    {
+      "movie_id": "4a1893c6-83be-46a3-93b8-3f585978756a",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "4a1893c6-83be-46a3-93b8-3f585978756a",
+      "genre_id": "d594a368-c083-4141-b982-749aca61e5c2"
+    },
+    {
+      "movie_id": "69fb951b-0d8c-4e60-86d9-4090f69eb6c2",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "69fb951b-0d8c-4e60-86d9-4090f69eb6c2",
+      "genre_id": "d594a368-c083-4141-b982-749aca61e5c2"
+    },
+    {
+      "movie_id": "3489d52f-f92e-4d6a-9970-bd59db7258c5",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "3489d52f-f92e-4d6a-9970-bd59db7258c5",
+      "genre_id": "0b45e24b-4f5d-46a0-9c79-1e2aca0a6510"
+    },
+    {
+      "movie_id": "23db9263-bc24-4347-affa-9f2c5b43b2ec",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "23db9263-bc24-4347-affa-9f2c5b43b2ec",
+      "genre_id": "ce8680db-cc3e-47eb-a969-462da055423c"
+    },
+    {
+      "movie_id": "86d31467-39a4-4663-b22a-c2f36c07fdd2",
+      "genre_id": "00093ca9-e3b3-44db-ad43-7f0d5ec60da3"
+    },
+    {
+      "movie_id": "86d31467-39a4-4663-b22a-c2f36c07fdd2",
+      "genre_id": "e87e1f7c-df23-4a02-8a97-b8fa375e6e8d"
+    },
+    {
+      "movie_id": "bf69bece-b834-4bbc-8886-d1fd999c554c",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "bf69bece-b834-4bbc-8886-d1fd999c554c",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "7160955a-5310-4bda-8719-d0a4ac5e8bce",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "7160955a-5310-4bda-8719-d0a4ac5e8bce",
+      "genre_id": "4d8054b6-68ba-4109-8b66-1fb9a5aac863"
+    },
+    {
+      "movie_id": "dddaa0fa-5a41-41f3-8b1b-abcfa4cab578",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "dddaa0fa-5a41-41f3-8b1b-abcfa4cab578",
+      "genre_id": "ce8680db-cc3e-47eb-a969-462da055423c"
+    },
+    {
+      "movie_id": "aaf2a45d-99c3-40e7-bf06-cdf17ab07863",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "aaf2a45d-99c3-40e7-bf06-cdf17ab07863",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "3cf979aa-6004-45d3-a66f-4cebd89184c8",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "3cf979aa-6004-45d3-a66f-4cebd89184c8",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "1686ac24-2644-431b-9484-5fd552426330",
+      "genre_id": "35b8aeef-a374-4b1b-88d9-b57c78a2967a"
+    },
+    {
+      "movie_id": "d8e9ede7-3747-4a4a-b5ba-4cad75806c20",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "d8e9ede7-3747-4a4a-b5ba-4cad75806c20",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "d8e9ede7-3747-4a4a-b5ba-4cad75806c20",
+      "genre_id": "d594a368-c083-4141-b982-749aca61e5c2"
+    },
+    {
+      "movie_id": "473aeb6c-de10-41be-9370-99f3b0b266f3",
+      "genre_id": "d594a368-c083-4141-b982-749aca61e5c2"
+    },
+    {
+      "movie_id": "473aeb6c-de10-41be-9370-99f3b0b266f3",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "473aeb6c-de10-41be-9370-99f3b0b266f3",
+      "genre_id": "09990ea5-4f9c-4b0f-9bf8-bb17cb616bcb"
+    },
+    {
+      "movie_id": "69c4309b-adbf-4a0e-a399-c7a83e41d34c",
+      "genre_id": "fb779537-9920-4874-8070-b3336c79e3af"
+    },
+    {
+      "movie_id": "69c4309b-adbf-4a0e-a399-c7a83e41d34c",
+      "genre_id": "0be842c9-4f98-4818-96b0-5632271e8a0d"
+    },
+    {
+      "movie_id": "69c4309b-adbf-4a0e-a399-c7a83e41d34c",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "39ad0126-324f-4f61-ae23-b1d71eb2a415",
+      "genre_id": "fb779537-9920-4874-8070-b3336c79e3af"
+    },
+    {
+      "movie_id": "39ad0126-324f-4f61-ae23-b1d71eb2a415",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "39ad0126-324f-4f61-ae23-b1d71eb2a415",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "e9456cef-7e04-4b63-a374-32f186c68067",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "e9456cef-7e04-4b63-a374-32f186c68067",
+      "genre_id": "fb779537-9920-4874-8070-b3336c79e3af"
+    },
+    {
+      "movie_id": "e9456cef-7e04-4b63-a374-32f186c68067",
+      "genre_id": "520f8db8-d069-4232-b11c-cc45fcbf9599"
+    },
+    {
+      "movie_id": "23c77b85-b819-48e7-a9bf-028db6134313",
+      "genre_id": "bbb5696b-a1ed-4593-81db-cbf424e61269"
+    },
+    {
+      "movie_id": "23c77b85-b819-48e7-a9bf-028db6134313",
+      "genre_id": "d594a368-c083-4141-b982-749aca61e5c2"
+    },
+    {
+      "movie_id": "23c77b85-b819-48e7-a9bf-028db6134313",
+      "genre_id": "520f8db8-d069-4232-b11c-cc45fcbf9599"
+    },
+    {
+      "movie_id": "b0132a43-1233-4183-ac7c-9b893ed77398",
+      "genre_id": "32ea91f9-8c22-4dc0-aa22-02852a414b5c"
+    },
+    {
+      "movie_id": "b0132a43-1233-4183-ac7c-9b893ed77398",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "b0132a43-1233-4183-ac7c-9b893ed77398",
+      "genre_id": "520f8db8-d069-4232-b11c-cc45fcbf9599"
+    },
+    {
+      "movie_id": "e1703ec2-a8f5-4dde-9725-6eb24526af33",
+      "genre_id": "4f8c446c-8691-46bd-a9e0-bb191bf198a2"
+    },
+    {
+      "movie_id": "e1703ec2-a8f5-4dde-9725-6eb24526af33",
+      "genre_id": "6ceb7567-d17b-4e8f-b3a1-c56ab3e3f280"
+    },
+    {
+      "movie_id": "e1703ec2-a8f5-4dde-9725-6eb24526af33",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "0c58010c-eb6e-497d-86c8-c93c936c936c",
+      "genre_id": "520f8db8-d069-4232-b11c-cc45fcbf9599"
+    },
+    {
+      "movie_id": "8345d7a7-e1b6-4a87-9411-0ba536eeb996",
+      "genre_id": "520f8db8-d069-4232-b11c-cc45fcbf9599"
+    },
+    {
+      "movie_id": "782abc7d-b510-43a6-8582-29063b33dfca",
+      "genre_id": "d594a368-c083-4141-b982-749aca61e5c2"
+    },
+    {
+      "movie_id": "782abc7d-b510-43a6-8582-29063b33dfca",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "23918342-0af0-46d4-a3bd-28cea9d2e6f4",
+      "genre_id": "00093ca9-e3b3-44db-ad43-7f0d5ec60da3"
+    },
+    {
+      "movie_id": "ec572334-918c-4556-9310-ce9dc9a60c9b",
+      "genre_id": "00093ca9-e3b3-44db-ad43-7f0d5ec60da3"
+    },
+    {
+      "movie_id": "ec572334-918c-4556-9310-ce9dc9a60c9b",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "3782407d-3318-41d0-901b-516811a6db92",
+      "genre_id": "fb779537-9920-4874-8070-b3336c79e3af"
+    },
+    {
+      "movie_id": "3782407d-3318-41d0-901b-516811a6db92",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "25620288-c68f-4af5-a26a-b49b1a7f103e",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "25620288-c68f-4af5-a26a-b49b1a7f103e",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "25620288-c68f-4af5-a26a-b49b1a7f103e",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "e49ffc88-f7af-483c-af3e-ee59ad1fa4dd",
+      "genre_id": "35b8aeef-a374-4b1b-88d9-b57c78a2967a"
+    },
+    {
+      "movie_id": "e49ffc88-f7af-483c-af3e-ee59ad1fa4dd",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "1d20a49c-cddf-4366-98e8-a22d4b0cc2c8",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "1d20a49c-cddf-4366-98e8-a22d4b0cc2c8",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "4c071086-af2b-43fe-b385-4d723999bf90",
+      "genre_id": "6183c8d9-1f47-4254-b095-ea361cc30770"
+    },
+    {
+      "movie_id": "4c071086-af2b-43fe-b385-4d723999bf90",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "ca46a520-260f-4c4e-a817-abc27ca58c80",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "ca46a520-260f-4c4e-a817-abc27ca58c80",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "930d8243-358a-4a25-917f-f81aa9f4947c",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "06a68a15-0fbc-466a-88e6-1b4792b6ddf9",
+      "genre_id": "c372c907-c11e-4811-ae5a-5c41681f2698"
+    },
+    {
+      "movie_id": "c3007c4f-4207-4630-84b8-edc8d419808e",
+      "genre_id": "fb779537-9920-4874-8070-b3336c79e3af"
+    },
+    {
+      "movie_id": "c3007c4f-4207-4630-84b8-edc8d419808e",
+      "genre_id": "6ceb7567-d17b-4e8f-b3a1-c56ab3e3f280"
+    },
+    {
+      "movie_id": "135f2158-1721-4549-90e0-9833619ee938",
+      "genre_id": "6183c8d9-1f47-4254-b095-ea361cc30770"
+    },
+    {
+      "movie_id": "135f2158-1721-4549-90e0-9833619ee938",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "54334e65-6c36-491e-9196-0b3e7e337f39",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "6bfce2c7-8445-47db-b15b-ef2b96fbdb12",
+      "genre_id": "fb779537-9920-4874-8070-b3336c79e3af"
+    },
+    {
+      "movie_id": "6bfce2c7-8445-47db-b15b-ef2b96fbdb12",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "1eaaa447-9f7f-4858-b820-0f9d065a6b64",
+      "genre_id": "534a0f85-59a3-4ffe-a281-510a0942b54b"
+    },
+    {
+      "movie_id": "1eaaa447-9f7f-4858-b820-0f9d065a6b64",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "eae0a3df-704a-4da9-8b1d-ab28866f6310",
+      "genre_id": "6183c8d9-1f47-4254-b095-ea361cc30770"
+    },
+    {
+      "movie_id": "eae0a3df-704a-4da9-8b1d-ab28866f6310",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "eae0a3df-704a-4da9-8b1d-ab28866f6310",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "785d6f30-0d8d-4abb-93e8-b7d81c2ec368",
+      "genre_id": "c372c907-c11e-4811-ae5a-5c41681f2698"
+    },
+    {
+      "movie_id": "63943082-bac7-4058-b565-d87ad9d2d552",
+      "genre_id": "241452a1-20b7-4c77-b3b9-a2f4aab54105"
+    },
+    {
+      "movie_id": "63943082-bac7-4058-b565-d87ad9d2d552",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "77a5689b-a6dd-41a3-ad84-134a362d67f9",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "77a5689b-a6dd-41a3-ad84-134a362d67f9",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "69f59460-27d8-49c9-ad02-b5f0398211ee",
+      "genre_id": "e87e1f7c-df23-4a02-8a97-b8fa375e6e8d"
+    },
+    {
+      "movie_id": "69f59460-27d8-49c9-ad02-b5f0398211ee",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "69f59460-27d8-49c9-ad02-b5f0398211ee",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "d97e5fd1-c50b-47aa-a3ac-b3e3f0a9a607",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "d97e5fd1-c50b-47aa-a3ac-b3e3f0a9a607",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "649bcfa3-cd5f-4b78-a746-59efe2d54f8d",
+      "genre_id": "d594a368-c083-4141-b982-749aca61e5c2"
+    },
+    {
+      "movie_id": "649bcfa3-cd5f-4b78-a746-59efe2d54f8d",
+      "genre_id": "ea2d2622-f1bf-4a12-84de-6bb20dcffc1a"
+    },
+    {
+      "movie_id": "22777048-d1da-4048-bde3-fb34c134c587",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "22777048-d1da-4048-bde3-fb34c134c587",
+      "genre_id": "ea2d2622-f1bf-4a12-84de-6bb20dcffc1a"
+    },
+    {
+      "movie_id": "d090433e-7793-44ad-8994-98b7e418f1ba",
+      "genre_id": "35b8aeef-a374-4b1b-88d9-b57c78a2967a"
+    },
+    {
+      "movie_id": "d090433e-7793-44ad-8994-98b7e418f1ba",
+      "genre_id": "fb779537-9920-4874-8070-b3336c79e3af"
+    },
+    {
+      "movie_id": "dc0e9631-b270-49be-af0b-97e599e55327",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "dc0e9631-b270-49be-af0b-97e599e55327",
+      "genre_id": "010763cf-7550-498a-901d-ef18a1e532bb"
+    },
+    {
+      "movie_id": "23c0d8ca-d7e4-42fa-8b36-490c92760054",
+      "genre_id": "32ea91f9-8c22-4dc0-aa22-02852a414b5c"
+    },
+    {
+      "movie_id": "23c0d8ca-d7e4-42fa-8b36-490c92760054",
+      "genre_id": "35b8aeef-a374-4b1b-88d9-b57c78a2967a"
+    },
+    {
+      "movie_id": "d2091dbb-a0af-4a6e-8727-ff5035412f9b",
+      "genre_id": "fb779537-9920-4874-8070-b3336c79e3af"
+    },
+    {
+      "movie_id": "d2091dbb-a0af-4a6e-8727-ff5035412f9b",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "58fde510-15cc-403a-a75e-11eca1c69ac9",
+      "genre_id": "35b8aeef-a374-4b1b-88d9-b57c78a2967a"
+    },
+    {
+      "movie_id": "58fde510-15cc-403a-a75e-11eca1c69ac9",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "bbe95dbc-3057-4dbd-9f77-7f32cfe68d85",
+      "genre_id": "35b8aeef-a374-4b1b-88d9-b57c78a2967a"
+    },
+    {
+      "movie_id": "bbe95dbc-3057-4dbd-9f77-7f32cfe68d85",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "9d1abdb2-d88b-4656-a0ac-0f311a141091",
+      "genre_id": "d41277ba-646f-4522-9c71-6214f9074269"
+    },
+    {
+      "movie_id": "9d1abdb2-d88b-4656-a0ac-0f311a141091",
+      "genre_id": "fb779537-9920-4874-8070-b3336c79e3af"
+    },
+    {
+      "movie_id": "9d1abdb2-d88b-4656-a0ac-0f311a141091",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "725affc1-ecfb-416c-a3f0-2319590d0571",
+      "genre_id": "d594a368-c083-4141-b982-749aca61e5c2"
+    },
+    {
+      "movie_id": "725affc1-ecfb-416c-a3f0-2319590d0571",
+      "genre_id": "35b8aeef-a374-4b1b-88d9-b57c78a2967a"
+    },
+    {
+      "movie_id": "baca5adf-4a51-4bbc-8171-fc2db19e7602",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "baca5adf-4a51-4bbc-8171-fc2db19e7602",
+      "genre_id": "d594a368-c083-4141-b982-749aca61e5c2"
+    },
+    {
+      "movie_id": "e3b8193d-ef37-48c7-a8f8-0995bed3af1b",
+      "genre_id": "c372c907-c11e-4811-ae5a-5c41681f2698"
+    },
+    {
+      "movie_id": "e7dc6964-225e-498b-a39a-49db4775ed43",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "e7dc6964-225e-498b-a39a-49db4775ed43",
+      "genre_id": "0be842c9-4f98-4818-96b0-5632271e8a0d"
+    },
+    {
+      "movie_id": "97295cba-5de6-401d-babb-29cce3c5d5df",
+      "genre_id": "09990ea5-4f9c-4b0f-9bf8-bb17cb616bcb"
+    },
+    {
+      "movie_id": "97295cba-5de6-401d-babb-29cce3c5d5df",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "97295cba-5de6-401d-babb-29cce3c5d5df",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "645227df-62fa-48b9-9dbc-5c9363e0e643",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "645227df-62fa-48b9-9dbc-5c9363e0e643",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "645227df-62fa-48b9-9dbc-5c9363e0e643",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "3eb4d0a8-52b8-42fd-8a8c-38d5d9e326cd",
+      "genre_id": "09990ea5-4f9c-4b0f-9bf8-bb17cb616bcb"
+    },
+    {
+      "movie_id": "3eb4d0a8-52b8-42fd-8a8c-38d5d9e326cd",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "3eb4d0a8-52b8-42fd-8a8c-38d5d9e326cd",
+      "genre_id": "fb779537-9920-4874-8070-b3336c79e3af"
+    },
+    {
+      "movie_id": "a4c06eeb-96af-4764-a6cb-8da0420f08ca",
+      "genre_id": "6ceb7567-d17b-4e8f-b3a1-c56ab3e3f280"
+    },
+    {
+      "movie_id": "a4c06eeb-96af-4764-a6cb-8da0420f08ca",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "b532f3fa-4d7a-43b1-a78b-c0ec99951f82",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "b532f3fa-4d7a-43b1-a78b-c0ec99951f82",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "f7d4a83a-26a1-4e0d-97e1-a2aa34ab53b1",
+      "genre_id": "09990ea5-4f9c-4b0f-9bf8-bb17cb616bcb"
+    },
+    {
+      "movie_id": "f7d4a83a-26a1-4e0d-97e1-a2aa34ab53b1",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "7688301e-38d7-43b8-a817-861496e878a8",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "7688301e-38d7-43b8-a817-861496e878a8",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "fed2cafc-19d7-4474-88a0-9d3814be3066",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "fed2cafc-19d7-4474-88a0-9d3814be3066",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "289ff44d-8c76-4fb9-ab05-90723d2a66c8",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "289ff44d-8c76-4fb9-ab05-90723d2a66c8",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "8a1f7de1-8bb9-4543-b306-e7e818fe9159",
+      "genre_id": "fb779537-9920-4874-8070-b3336c79e3af"
+    },
+    {
+      "movie_id": "8a1f7de1-8bb9-4543-b306-e7e818fe9159",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "070fcbfa-5b0c-49b1-a9bf-93ac2c5de430",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "070fcbfa-5b0c-49b1-a9bf-93ac2c5de430",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "db9b0472-43e8-4b84-ad42-cd7b7b4b844b",
+      "genre_id": "5edf25a9-03cd-49f0-8418-7c2c69f2802c"
+    },
+    {
+      "movie_id": "db9b0472-43e8-4b84-ad42-cd7b7b4b844b",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "db9b0472-43e8-4b84-ad42-cd7b7b4b844b",
+      "genre_id": "534a0f85-59a3-4ffe-a281-510a0942b54b"
+    },
+    {
+      "movie_id": "7be05ab5-9afd-4889-ae5b-c66a03b30e0c",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "7be05ab5-9afd-4889-ae5b-c66a03b30e0c",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "06d17e9d-e29c-4109-be39-3ffde0c6eecf",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "06d17e9d-e29c-4109-be39-3ffde0c6eecf",
+      "genre_id": "7a4fcc75-0602-4d27-ae34-cf0a2e8089ff"
+    },
+    {
+      "movie_id": "e31d733e-8dde-4694-b1c0-626425086e7a",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "a4292154-0b67-44e6-bd1b-61220192c536",
+      "genre_id": "fb779537-9920-4874-8070-b3336c79e3af"
+    },
+    {
+      "movie_id": "a4292154-0b67-44e6-bd1b-61220192c536",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "b0a7d30b-eb3b-431c-96ad-77ab119e622f",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "817eed81-b925-4cca-b930-08f9514d5e2f",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "22055b21-4e66-4406-9fa4-e7f8f8e625ef",
+      "genre_id": "32ea91f9-8c22-4dc0-aa22-02852a414b5c"
+    },
+    {
+      "movie_id": "22055b21-4e66-4406-9fa4-e7f8f8e625ef",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "22055b21-4e66-4406-9fa4-e7f8f8e625ef",
+      "genre_id": "e573dc6f-f911-495e-8a4a-d0a48329d179"
+    },
+    {
+      "movie_id": "ef675897-f19e-4e0b-9b9e-8c2f327718ca",
+      "genre_id": "c372c907-c11e-4811-ae5a-5c41681f2698"
+    },
+    {
+      "movie_id": "0c6a8b7c-6ae4-451c-8d1f-a9581f6a502a",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "0c6a8b7c-6ae4-451c-8d1f-a9581f6a502a",
+      "genre_id": "e87e1f7c-df23-4a02-8a97-b8fa375e6e8d"
+    },
+    {
+      "movie_id": "ec05a5b8-416a-4e28-9bba-de4d14dfd89a",
+      "genre_id": "fb779537-9920-4874-8070-b3336c79e3af"
+    },
+    {
+      "movie_id": "ec05a5b8-416a-4e28-9bba-de4d14dfd89a",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "4401f4c1-8c08-483d-8438-8997a73146d3",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "21137513-69b9-4c2f-b6b2-70c170d906ba",
+      "genre_id": "fb779537-9920-4874-8070-b3336c79e3af"
+    },
+    {
+      "movie_id": "21137513-69b9-4c2f-b6b2-70c170d906ba",
+      "genre_id": "5edf25a9-03cd-49f0-8418-7c2c69f2802c"
+    },
+    {
+      "movie_id": "4bbd80f6-732e-4193-a51a-a9f2ab89e7b3",
+      "genre_id": "afc4e27e-5dd1-466d-b0b0-a2eed00fb080"
+    },
+    {
+      "movie_id": "4bbd80f6-732e-4193-a51a-a9f2ab89e7b3",
+      "genre_id": "00093ca9-e3b3-44db-ad43-7f0d5ec60da3"
+    },
+    {
+      "movie_id": "68d76484-2db8-4649-9245-7201a1f7ebca",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "68d76484-2db8-4649-9245-7201a1f7ebca",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "b06ad511-b50b-4643-b60b-05571b998f4d",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "b06ad511-b50b-4643-b60b-05571b998f4d",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "4cf2b646-98b6-42a5-9cfb-8551bef3718b",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "4cf2b646-98b6-42a5-9cfb-8551bef3718b",
+      "genre_id": "d594a368-c083-4141-b982-749aca61e5c2"
+    },
+    {
+      "movie_id": "ab7e472a-f001-4ce7-9c55-dd216ba5ea5e",
+      "genre_id": "32ea91f9-8c22-4dc0-aa22-02852a414b5c"
+    },
+    {
+      "movie_id": "ab7e472a-f001-4ce7-9c55-dd216ba5ea5e",
+      "genre_id": "e573dc6f-f911-495e-8a4a-d0a48329d179"
+    },
+    {
+      "movie_id": "ab7e472a-f001-4ce7-9c55-dd216ba5ea5e",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "d245f2b5-06ea-4f09-884a-580cc25448b4",
+      "genre_id": "a1d898d4-5f7f-4256-b024-6b450d8e4d43"
+    },
+    {
+      "movie_id": "d245f2b5-06ea-4f09-884a-580cc25448b4",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "db7bb46e-070f-4162-92e3-f0bdb74934cc",
+      "genre_id": "e87e1f7c-df23-4a02-8a97-b8fa375e6e8d"
+    },
+    {
+      "movie_id": "db7bb46e-070f-4162-92e3-f0bdb74934cc",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "5f6f9c42-a6b6-495c-b140-1fb022e2ea9d",
+      "genre_id": "e87e1f7c-df23-4a02-8a97-b8fa375e6e8d"
+    },
+    {
+      "movie_id": "5f6f9c42-a6b6-495c-b140-1fb022e2ea9d",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "144e40b7-555f-4f3a-b92c-fd4ef27d7b15",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "144e40b7-555f-4f3a-b92c-fd4ef27d7b15",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "ae9c5d6b-6257-4924-9f4c-d9489a5a13d8",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "ae9c5d6b-6257-4924-9f4c-d9489a5a13d8",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "83417a67-8fd6-45dd-a07f-1ba23ca52236",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "83417a67-8fd6-45dd-a07f-1ba23ca52236",
+      "genre_id": "c372c907-c11e-4811-ae5a-5c41681f2698"
+    },
+    {
+      "movie_id": "9cff5ec0-70e8-4e7b-8443-a66b8cdd0fc3",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "9cff5ec0-70e8-4e7b-8443-a66b8cdd0fc3",
+      "genre_id": "fb779537-9920-4874-8070-b3336c79e3af"
+    },
+    {
+      "movie_id": "9cff5ec0-70e8-4e7b-8443-a66b8cdd0fc3",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "d215de48-7b6a-47da-82e0-65d065354ca2",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "d215de48-7b6a-47da-82e0-65d065354ca2",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "ca38d7c2-92b1-4326-b831-0a1e1ba10e47",
+      "genre_id": "fb779537-9920-4874-8070-b3336c79e3af"
+    },
+    {
+      "movie_id": "ca38d7c2-92b1-4326-b831-0a1e1ba10e47",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "e83beb25-e5ff-4abc-8e89-49ad9226eda8",
+      "genre_id": "6183c8d9-1f47-4254-b095-ea361cc30770"
+    },
+    {
+      "movie_id": "e83beb25-e5ff-4abc-8e89-49ad9226eda8",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "e83beb25-e5ff-4abc-8e89-49ad9226eda8",
+      "genre_id": "fb779537-9920-4874-8070-b3336c79e3af"
+    },
+    {
+      "movie_id": "ed967b4c-eeff-4b46-8a3a-89ec91aecd5a",
+      "genre_id": "6183c8d9-1f47-4254-b095-ea361cc30770"
+    },
+    {
+      "movie_id": "ed967b4c-eeff-4b46-8a3a-89ec91aecd5a",
+      "genre_id": "fb779537-9920-4874-8070-b3336c79e3af"
+    },
+    {
+      "movie_id": "acd461c4-0cc5-4637-a595-e76db1a391cb",
+      "genre_id": "6183c8d9-1f47-4254-b095-ea361cc30770"
+    },
+    {
+      "movie_id": "acd461c4-0cc5-4637-a595-e76db1a391cb",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "2db5d2d0-6ab3-4d7b-8464-fd0a571941f3",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "2db5d2d0-6ab3-4d7b-8464-fd0a571941f3",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "4e83a7b8-8420-4575-bbd1-cf73704a3626",
+      "genre_id": "d594a368-c083-4141-b982-749aca61e5c2"
+    },
+    {
+      "movie_id": "4e83a7b8-8420-4575-bbd1-cf73704a3626",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "6ff9460a-bded-4751-8a48-652780961911",
+      "genre_id": "fb779537-9920-4874-8070-b3336c79e3af"
+    },
+    {
+      "movie_id": "6ff9460a-bded-4751-8a48-652780961911",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "5c860e6a-4c85-48ae-b99c-58e31decd1fa",
+      "genre_id": "e87e1f7c-df23-4a02-8a97-b8fa375e6e8d"
+    },
+    {
+      "movie_id": "5c860e6a-4c85-48ae-b99c-58e31decd1fa",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "8c6a2e8a-4fb5-49b7-a266-16df726c32dc",
+      "genre_id": "35b8aeef-a374-4b1b-88d9-b57c78a2967a"
+    },
+    {
+      "movie_id": "06777d99-1043-427c-b617-0c251adba7dc",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "06777d99-1043-427c-b617-0c251adba7dc",
+      "genre_id": "fb779537-9920-4874-8070-b3336c79e3af"
+    },
+    {
+      "movie_id": "06777d99-1043-427c-b617-0c251adba7dc",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "7335d07b-9fd9-4412-b601-8ea620d45474",
+      "genre_id": "00093ca9-e3b3-44db-ad43-7f0d5ec60da3"
+    },
+    {
+      "movie_id": "7335d07b-9fd9-4412-b601-8ea620d45474",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "c2b4646e-2ea1-4d86-97b3-73bafc17de1a",
+      "genre_id": "00093ca9-e3b3-44db-ad43-7f0d5ec60da3"
+    },
+    {
+      "movie_id": "c2b4646e-2ea1-4d86-97b3-73bafc17de1a",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "87363c4d-dd44-49fe-a274-71085c21d688",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "87363c4d-dd44-49fe-a274-71085c21d688",
+      "genre_id": "00093ca9-e3b3-44db-ad43-7f0d5ec60da3"
+    },
+    {
+      "movie_id": "408ad607-e45d-47f5-9fad-6e31ea0b2496",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "408ad607-e45d-47f5-9fad-6e31ea0b2496",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "10b9f8b7-504c-464c-b044-0139cf76e761",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "10b9f8b7-504c-464c-b044-0139cf76e761",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "55e65d0d-5a16-406c-b8ba-432ebf3ce9d9",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "55e65d0d-5a16-406c-b8ba-432ebf3ce9d9",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "98b899d4-a2e3-43a9-8504-2bb811703685",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "98b899d4-a2e3-43a9-8504-2bb811703685",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "7ca118ba-c6c8-4cef-b0c5-6d765019e628",
+      "genre_id": "c372c907-c11e-4811-ae5a-5c41681f2698"
+    },
+    {
+      "movie_id": "9388c2b5-773b-42c1-9aff-aaf10e530c75",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "9388c2b5-773b-42c1-9aff-aaf10e530c75",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "7380dba7-8876-4bce-b144-aa1820e92519",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "7380dba7-8876-4bce-b144-aa1820e92519",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "0032bb68-f360-4dd4-ae9f-1f6fe630aee1",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "0032bb68-f360-4dd4-ae9f-1f6fe630aee1",
+      "genre_id": "00093ca9-e3b3-44db-ad43-7f0d5ec60da3"
+    },
+    {
+      "movie_id": "b9f67e4c-9f6a-4dfe-a9eb-8f05d0b38e1c",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "b9f67e4c-9f6a-4dfe-a9eb-8f05d0b38e1c",
+      "genre_id": "e87e1f7c-df23-4a02-8a97-b8fa375e6e8d"
+    },
+    {
+      "movie_id": "fd7b1fad-1c59-4ceb-9df6-fd6172018708",
+      "genre_id": "67e01c92-fbab-4356-b6ae-c9b972edd67f"
+    },
+    {
+      "movie_id": "fd7b1fad-1c59-4ceb-9df6-fd6172018708",
+      "genre_id": "e87e1f7c-df23-4a02-8a97-b8fa375e6e8d"
+    },
+    {
+      "movie_id": "9fbbe853-dd66-4654-8d4f-c0fa53935465",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "9fbbe853-dd66-4654-8d4f-c0fa53935465",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "4a87b102-8457-48fe-90d6-e02bb05eec24",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "4a87b102-8457-48fe-90d6-e02bb05eec24",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "4907fdf8-8b2b-4e44-a842-fd64aa9ea5db",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "4907fdf8-8b2b-4e44-a842-fd64aa9ea5db",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "f12eaa65-3600-44ac-87ba-bc9bf5e2fc72",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "f12eaa65-3600-44ac-87ba-bc9bf5e2fc72",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "034b8656-d4a9-4984-b4bd-5667f49fac84",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "034b8656-d4a9-4984-b4bd-5667f49fac84",
+      "genre_id": "ea2d2622-f1bf-4a12-84de-6bb20dcffc1a"
+    },
+    {
+      "movie_id": "27720bde-3178-4aed-9342-d936e43d7eb9",
+      "genre_id": "6183c8d9-1f47-4254-b095-ea361cc30770"
+    },
+    {
+      "movie_id": "27720bde-3178-4aed-9342-d936e43d7eb9",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "681ce899-f39d-461d-bbc8-f7ec57169065",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "681ce899-f39d-461d-bbc8-f7ec57169065",
+      "genre_id": "32ea91f9-8c22-4dc0-aa22-02852a414b5c"
+    },
+    {
+      "movie_id": "30de6491-5eab-4c8d-abe8-a9f35c54f8ee",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "30de6491-5eab-4c8d-abe8-a9f35c54f8ee",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "143c7f30-ac1d-4d97-98d6-155287c5fa0c",
+      "genre_id": "00093ca9-e3b3-44db-ad43-7f0d5ec60da3"
+    },
+    {
+      "movie_id": "45404d36-2314-48f0-8611-1c197fc1def8",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "45404d36-2314-48f0-8611-1c197fc1def8",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "086a8600-5cf9-4dc6-8a1a-1b28abc351a8",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "086a8600-5cf9-4dc6-8a1a-1b28abc351a8",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "086a8600-5cf9-4dc6-8a1a-1b28abc351a8",
+      "genre_id": "09990ea5-4f9c-4b0f-9bf8-bb17cb616bcb"
+    },
+    {
+      "movie_id": "bf2cd3c2-92fe-4e90-8224-e660731a07da",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "bf2cd3c2-92fe-4e90-8224-e660731a07da",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "df3c0745-cefe-4bb1-b1f9-71385e0652f7",
+      "genre_id": "c372c907-c11e-4811-ae5a-5c41681f2698"
+    },
+    {
+      "movie_id": "89a44c56-644c-49c8-848b-ac381eed5a59",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "89a44c56-644c-49c8-848b-ac381eed5a59",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "cd8e64d6-cd2e-4210-a538-45f429868238",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "cd8e64d6-cd2e-4210-a538-45f429868238",
+      "genre_id": "6ceb7567-d17b-4e8f-b3a1-c56ab3e3f280"
+    },
+    {
+      "movie_id": "5b146959-8c8e-4a37-aa0f-f01e8ce43ff5",
+      "genre_id": "c372c907-c11e-4811-ae5a-5c41681f2698"
+    },
+    {
+      "movie_id": "f967e6dc-f385-4b9d-b119-9b8038403e12",
+      "genre_id": "c372c907-c11e-4811-ae5a-5c41681f2698"
+    },
+    {
+      "movie_id": "0975adfd-4427-4b7a-9640-a5293fcfae1c",
+      "genre_id": "6183c8d9-1f47-4254-b095-ea361cc30770"
+    },
+    {
+      "movie_id": "0975adfd-4427-4b7a-9640-a5293fcfae1c",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "bcc45e4b-c539-482a-ab12-4e1e40e19236",
+      "genre_id": "00093ca9-e3b3-44db-ad43-7f0d5ec60da3"
+    },
+    {
+      "movie_id": "bcc45e4b-c539-482a-ab12-4e1e40e19236",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "53bf1e7a-62d4-4221-8a49-728aca0c99d9",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
+    },
+    {
+      "movie_id": "53bf1e7a-62d4-4221-8a49-728aca0c99d9",
+      "genre_id": "7a4fcc75-0602-4d27-ae34-cf0a2e8089ff"
+    },
+    {
+      "movie_id": "53bf1e7a-62d4-4221-8a49-728aca0c99d9",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "2de4f1d9-0d4b-4a55-89e5-55ffb0b7a102",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "2de4f1d9-0d4b-4a55-89e5-55ffb0b7a102",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "a18b7667-315a-4f41-bff5-707a6f7307af",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "f643a687-3391-41be-86e9-6d06a09f090b",
+      "genre_id": "ce8680db-cc3e-47eb-a969-462da055423c"
+    },
+    {
+      "movie_id": "f643a687-3391-41be-86e9-6d06a09f090b",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "5292f2c3-02a2-4fa4-8367-bd08a510b84a",
+      "genre_id": "6183c8d9-1f47-4254-b095-ea361cc30770"
+    },
+    {
+      "movie_id": "5292f2c3-02a2-4fa4-8367-bd08a510b84a",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "5ff30e3b-bace-4d2e-8574-af750d631bbd",
+      "genre_id": "c372c907-c11e-4811-ae5a-5c41681f2698"
+    },
+    {
+      "movie_id": "568e834a-863d-4294-8717-a08e742c93ec",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "568e834a-863d-4294-8717-a08e742c93ec",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "6964739d-3b7d-408b-9c87-6dee20896fc1",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "6964739d-3b7d-408b-9c87-6dee20896fc1",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "681dfa21-b634-4886-8041-aa16f2a05cd6",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "681dfa21-b634-4886-8041-aa16f2a05cd6",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "c4ca8fc5-6220-431a-b27c-ca737644d1dd",
+      "genre_id": "6ceb7567-d17b-4e8f-b3a1-c56ab3e3f280"
+    },
+    {
+      "movie_id": "c4ca8fc5-6220-431a-b27c-ca737644d1dd",
+      "genre_id": "d4744725-3a8a-4eaa-88b6-a3115dbeac9c"
+    },
+    {
+      "movie_id": "c4ca8fc5-6220-431a-b27c-ca737644d1dd",
+      "genre_id": "09990ea5-4f9c-4b0f-9bf8-bb17cb616bcb"
+    },
+    {
+      "movie_id": "63819510-d524-4dd9-b358-e3c7bae81525",
+      "genre_id": "e87e1f7c-df23-4a02-8a97-b8fa375e6e8d"
+    },
+    {
+      "movie_id": "63819510-d524-4dd9-b358-e3c7bae81525",
+      "genre_id": "00093ca9-e3b3-44db-ad43-7f0d5ec60da3"
+    },
+    {
+      "movie_id": "db93de1b-d63f-4ef2-bf08-5820a5acd2cd",
+      "genre_id": "6183c8d9-1f47-4254-b095-ea361cc30770"
+    },
+    {
+      "movie_id": "db93de1b-d63f-4ef2-bf08-5820a5acd2cd",
+      "genre_id": "4c12a39b-bce6-47da-a556-1c60803e7776"
+    },
+    {
+      "movie_id": "0684356d-a5f2-4ff8-800c-5aa14105678f",
+      "genre_id": "ea564d72-4119-4c59-a269-e1906c41de63"
+    },
+    {
+      "movie_id": "0684356d-a5f2-4ff8-800c-5aa14105678f",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "86bf479f-cf46-40f4-b2b1-07fe86fd96d8",
+      "genre_id": "ad358ddc-8cad-4db8-a4a5-1a4d554881ad"
+    },
+    {
+      "movie_id": "86bf479f-cf46-40f4-b2b1-07fe86fd96d8",
+      "genre_id": "db679dcb-b5f7-4664-bb9a-66f61a6ce62b"
     }
   ]
 }

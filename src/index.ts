@@ -9,6 +9,7 @@ import tableRoutes from './routes/table'
 import movieRoutes from './routes/movies'
 import movieRatings from './routes/movie-ratings'
 import GenreRoutes from './routes/genres'
+import RankingRoutes from './routes/rankings'
 
 const app = express();
 const port = process.env.APPLICATION_PORT || 3000;
@@ -27,6 +28,7 @@ app.use('/full-table', tableRoutes)
 app.use('/movie', movieRoutes)
 app.use('/movie-ratings', movieRatings)
 app.use('/genres', GenreRoutes)
+app.use('/ranking', RankingRoutes)
 
 app.listen(port, () => {
   console.log(`server up @ http://localhost:${port}/`)
