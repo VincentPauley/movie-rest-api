@@ -1,7 +1,9 @@
 import express from 'express'
-import { SetRanking } from '../controllers/rankings'
+import { GetRankingById, SetRanking } from '../controllers/rankings'
 
 const router = express.Router()
+
+router.get('/:id', GetRankingById)
 
 router.post('/', SetRanking)
 
